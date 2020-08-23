@@ -1,0 +1,7 @@
+2020/08/19-20:03:09.573 5b36 Reusing MANIFEST /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_geekboards.ru_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/19-20:03:09.573 5b36 Recovering log #3
+2020/08/19-20:03:09.576 5b36 Reusing old log /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_geekboards.ru_0.indexeddb.leveldb/000003.log 
+2020/08/19-20:03:58.607 1444 Level-0 table #5: started
+2020/08/19-20:03:58.613 1444 Level-0 table #5: 205255 bytes OK
+2020/08/19-20:03:58.616 1444 Delete type=0 #3
+2020/08/19-20:03:58.617 1444 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+[2020-08-20 19:08:59.726] [sharedprocess] [info] main {"machineId":"7e048e68d8b0636b7a3722242611521f6607eafe9378cdecc133a13fe9bc7d93","windowId":2}
+[2020-08-20 19:09:39.742] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-20 20:17:22.393] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2020-08-20 20:17:22.396] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim /home/mbgl/.config/Code - OSS/CachedExtensionVSIXs/asvetliakov.vscode-neovim-0.0.50
+[2020-08-20 20:17:23.267] [sharedprocess] [info] Extracted extension to /home/mbgl/.vscode-oss/extensions/.asvetliakov.vscode-neovim-0.0.50: asvetliakov.vscode-neovim
+[2020-08-20 20:17:23.267] [sharedprocess] [info] Renamed to /home/mbgl/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.50
+[2020-08-20 20:17:23.268] [sharedprocess] [info] Installation completed. asvetliakov.vscode-neovim
+[2020-08-20 20:17:23.277] [sharedprocess] [info] Extensions installed successfully: asvetliakov.vscode-neovim

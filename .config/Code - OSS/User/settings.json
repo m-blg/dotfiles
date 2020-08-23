@@ -1,0 +1,29 @@
+{
+    "code-runner.runInTerminal": true,
+    "vscode-neovim.neovimPath": "/usr/bin/nvim",
+    "vscode-neovim.neovimInitPath": "/home/mbgl/.config/nvim/init.vim",
+    "keyboard.dispatch": "keyCode",
+
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "vim.insertModeKeyBindings": [
+        {
+        "before": ["j", "j"],
+        "after": ["<Esc>"]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        { "before": ["<space>"], "after": ["Nop"] },
+        { "before": ["d", "<space>"], "after": ["da"] }
+    ],
+    // "vim.leader": "<space>",
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-f>": false
+    },
+    "git.autofetch": true
+    
+}

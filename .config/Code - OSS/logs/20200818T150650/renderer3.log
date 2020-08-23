@@ -1,0 +1,4 @@
+[2020-08-18 15:06:52.088] [renderer3] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/mnt/mbgl/Desktop/vim_test.cpp'
+[2020-08-18 15:06:52.088] [renderer3] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/mnt/mbgl/Desktop/vim_test.cpp'
+[2020-08-18 21:37:40.739] [renderer3] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/mnt/mbgl/Desktop/vim_test.cpp'
+[2020-08-18 21:37:40.739] [renderer3] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/mnt/mbgl/Desktop/vim_test.cpp'

@@ -1,0 +1,18 @@
+2020/08/23-11:22:08.563 1c8b Reusing MANIFEST /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/08/23-11:22:08.564 1c8b Recovering log #688
+2020/08/23-11:22:08.564 1c8b Reusing old log /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000688.log 
+2020/08/23-11:33:11.942 23dd Level-0 table #692: started
+2020/08/23-11:33:11.952 23dd Level-0 table #692: 11651 bytes OK
+2020/08/23-11:33:11.955 23dd Delete type=0 #688
+2020/08/23-11:33:11.956 23dd Compacting 4@0 + 1@1 files
+2020/08/23-11:33:11.991 23dd Generated table #693@0: 2229 keys, 1898025 bytes
+2020/08/23-11:33:11.992 23dd Compacted 4@0 + 1@1 files => 1898025 bytes
+2020/08/23-11:33:11.995 23dd compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/23-11:33:11.995 23dd Delete type=2 #692
+2020/08/23-11:33:11.995 23dd Delete type=2 #685
+2020/08/23-11:33:11.995 23dd Delete type=2 #683
+2020/08/23-11:33:11.995 23dd Delete type=2 #687
+2020/08/23-11:33:11.995 23dd Delete type=2 #689
+2020/08/23-12:43:18.414 23dd Level-0 table #695: started
+2020/08/23-12:43:18.424 23dd Level-0 table #695: 16919 bytes OK
+2020/08/23-12:43:18.428 23dd Delete type=0 #691

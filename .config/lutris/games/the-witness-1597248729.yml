@@ -1,0 +1,6 @@
+game:
+  exe: /home/mbgl/Lutris/The.Witness.v24.01.2019/witness64_d3d11.exe
+system:
+  game_path: ~/Lutris
+wine:
+  esync: true

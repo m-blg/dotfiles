@@ -1,0 +1,4 @@
+[2020-08-14 13:04:07.383] [sharedprocess] [info] main {"machineId":"7e048e68d8b0636b7a3722242611521f6607eafe9378cdecc133a13fe9bc7d93","windowId":4}
+[2020-08-14 13:04:07.659] [sharedprocess] [info] Deleted from disk vscodevim.vim /home/mbgl/.vscode-oss/extensions/vscodevim.vim-1.16.0
+[2020-08-14 13:04:07.747] [sharedprocess] [info] Deleted from disk asvetliakov.vscode-neovim /home/mbgl/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.50
+[2020-08-14 13:04:47.392] [sharedprocess] [info] Starting to clean up unused language packs.

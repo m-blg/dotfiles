@@ -1,0 +1,21 @@
+[2020-08-12 13:19:10.427] [sharedprocess] [info] main {"machineId":"7e048e68d8b0636b7a3722242611521f6607eafe9378cdecc133a13fe9bc7d93","windowId":2}
+[2020-08-12 13:19:10.456] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mbgl/.config/Code/User/snippets'
+[2020-08-12 13:19:50.442] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-12 13:20:07.718] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-08-12 13:20:08.756] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/mbgl/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-0.29.0
+[2020-08-12 13:20:08.967] [sharedprocess] [info] Extracted extension to /home/mbgl/.vscode/extensions/.ms-vscode.cpptools-0.29.0: ms-vscode.cpptools
+[2020-08-12 13:20:08.968] [sharedprocess] [info] Renamed to /home/mbgl/.vscode/extensions/ms-vscode.cpptools-0.29.0
+[2020-08-12 13:20:08.969] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-08-12 13:20:08.977] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-08-12 13:20:27.781] [sharedprocess] [info] Installing extension: 13xforever.language-x86-64-assembly
+[2020-08-12 13:20:28.092] [sharedprocess] [info] Downloaded extension: 13xforever.language-x86-64-assembly /home/mbgl/.config/Code/CachedExtensionVSIXs/13xforever.language-x86-64-assembly-2.3.0
+[2020-08-12 13:20:28.102] [sharedprocess] [info] Extracted extension to /home/mbgl/.vscode/extensions/.13xforever.language-x86-64-assembly-2.3.0: 13xforever.language-x86-64-assembly
+[2020-08-12 13:20:28.102] [sharedprocess] [info] Renamed to /home/mbgl/.vscode/extensions/13xforever.language-x86-64-assembly-2.3.0
+[2020-08-12 13:20:28.103] [sharedprocess] [info] Installation completed. 13xforever.language-x86-64-assembly
+[2020-08-12 13:20:28.106] [sharedprocess] [info] Extensions installed successfully: 13xforever.language-x86-64-assembly
+[2020-08-12 13:20:36.252] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2020-08-12 13:20:36.716] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/mbgl/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.11.0
+[2020-08-12 13:20:36.853] [sharedprocess] [info] Extracted extension to /home/mbgl/.vscode/extensions/.formulahendry.code-runner-0.11.0: formulahendry.code-runner
+[2020-08-12 13:20:36.853] [sharedprocess] [info] Renamed to /home/mbgl/.vscode/extensions/formulahendry.code-runner-0.11.0
+[2020-08-12 13:20:36.854] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2020-08-12 13:20:36.863] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner

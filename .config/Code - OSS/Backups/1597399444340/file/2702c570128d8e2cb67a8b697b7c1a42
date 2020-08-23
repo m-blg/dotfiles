@@ -1,0 +1,64 @@
+file:///mnt/mbgl/Desktop/vim_test.cpp {"mtime":1597334165666,"ctime":1596570543842,"size":1627,"etag":"35hbb5sj71lf","orphaned":false}
+#pragma once
+
+#include "General/mbgldef.hpp"
+#include "Math/BasicMath.hpp"
+
+#include <cstring>
+
+namespace mbgl {
+
+    // all public approach
+    // No prefix means: intended to be accessed directly.
+    // "_" prefix means: not intended to be accessed directly (inner workings of struct), "r_" prefix means: not intended to be writen, but intended to be read. 
+    template <uint32 size>
+    struct SString {
+        uint32 r_len = 0; // read-only actual string length
+        char r_buffer[size];
+
+        SString() {
+            static_assert(size > 0, "size is out of bounds");
+            r_buffer[0] = '\0';
+        }
+        SString(const char* other) {
+            Set(other);
+        }
+
+        uint32 Size() { // buffer size
+            return size;
+        }
+
+        void Set(char* other) {
+            r_len = 0;
+            char* p_other = other;
+            for (char* p_self = r_buffer; p_self != r_buffer + size; p_self++, p_other++) {      
+                *p_self = *p_other;
+                r_len++;
+                if (*p_other == '\0') {
+                    return;
+                }
+            }
+        }
+
+        void Set(const char* other, uint32 otherLen) {
+            r_len = Min(size, otherLen);
+            memcpy(r_buffer, other, r_len);
+        }
+
+        char& operator[](uint32 index) {
+            return r_buffer[index];
+        }
+
+        operator char*() {
+            return r_buffer;
+        }
+    };
+    // less code, more potential functionality, does not limit a user in ways this type can be used. 
+
+
+
+    // int foo() {
+    //     SString16 s;
+    //     SString.buffer
+    // }
+}

@@ -1,0 +1,6 @@
+[Added Associations]
+application/x-sharedlib=nemo-autorun-software.desktop;
+
+[Default Applications]
+application/x-sharedlib=nemo-autorun-software.desktop
+x-scheme-handler/tg=telegramdesktop.desktop

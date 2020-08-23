@@ -1,0 +1,9 @@
+untitled:Untitled-1
+vnoremap w iw
+vnoremap b ib
+vnoremap B iB
+vnoremap t it
+vnoremap w<Space> aw
+vnoremap b<Space> ab
+vnoremap B<Space> aB
+vnoremap t<Space> at

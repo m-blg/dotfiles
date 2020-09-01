@@ -1,3 +1,0 @@
-[2020-08-14 16:55:25.624] [renderer3] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/mnt/mbgl/Desktop/vim_test.cpp'
-[2020-08-14 16:55:25.624] [renderer3] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/mnt/mbgl/Desktop/vim_test.cpp'
-[2020-08-14 16:56:21.112] [renderer3] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/mnt/mbgl/Desktop/vim_test.cpp' (NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/mnt/mbgl') file:///mnt/mbgl/Desktop/vim_test.cpp

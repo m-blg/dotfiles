@@ -1,5 +1,0 @@
-2020/08/13-17:29:58.785 2867 Reusing MANIFEST /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.typerush.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/13-17:31:21.745 2132 Level-0 table #5: started
-2020/08/13-17:31:21.754 2132 Level-0 table #5: 1654 bytes OK
-2020/08/13-17:31:21.758 2132 Delete type=0 #3
-2020/08/13-17:31:21.758 2132 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

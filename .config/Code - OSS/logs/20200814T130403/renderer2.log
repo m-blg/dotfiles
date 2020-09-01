@@ -1,5 +1,0 @@
-[2020-08-14 13:04:05.158] [renderer2] [error] Error: Unable to read file '/home/mbgl/.local/bin/statusbar/clock' (Error: Unable to resolve non-existing file '/home/mbgl/.local/bin/statusbar/clock')
-    at Object.t.createErrorWithActions (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:53:207)
-    at w.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5716:168)
-    at w.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5718:772)
-    at w.setInput (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5715:869)

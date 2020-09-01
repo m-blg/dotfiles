@@ -1,3 +1,15 @@
-2020/08/17-16:43:59.655 3f04 Reusing MANIFEST /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/17-16:43:59.655 3f04 Recovering log #19
-2020/08/17-16:43:59.655 3f04 Reusing old log /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000019.log 
+2020/08/19-17:22:54.199 45b3 Reusing MANIFEST /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/19-17:22:54.199 45b3 Recovering log #19
+2020/08/19-17:22:54.202 45b3 Reusing old log /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000019.log 
+2020/08/19-17:23:35.634 1444 Level-0 table #24: started
+2020/08/19-17:23:35.642 1444 Level-0 table #24: 462427 bytes OK
+2020/08/19-17:23:35.646 1444 Delete type=0 #19
+2020/08/19-17:23:35.647 1444 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/19-17:23:35.647 1444 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 6946 : 1
+2020/08/19-17:23:35.647 1444 Compacting 1@1 + 1@2 files
+2020/08/19-17:23:35.653 1444 Generated table #25@1: 129 keys, 120227 bytes
+2020/08/19-17:23:35.653 1444 Compacted 1@1 + 1@2 files => 120227 bytes
+2020/08/19-17:23:35.656 1444 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/19-17:23:35.656 1444 Delete type=2 #21
+2020/08/19-17:23:35.656 1444 Delete type=2 #24
+2020/08/19-17:23:35.657 1444 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 6946 : 1 .. (end); will stop at (end)

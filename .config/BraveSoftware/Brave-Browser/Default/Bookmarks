@@ -1,5 +1,5 @@
 {
-   "checksum": "4fcb4095edf5925eee5e336b4da3409c",
+   "checksum": "2aa168cf1d1b55bcf49d1c22ba59fa4a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2889,9 +2889,703 @@
                      "name": "Git Bare Repository - A Better Way To Manage Dotfiles - YouTube",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=tBoLDpTWVOM"
+                  }, {
+                     "date_added": "13242658354241988",
+                     "guid": "5f4c5c0d-e2e8-4773-83bd-0d92de4cc349",
+                     "id": "1799",
+                     "name": "Git - Book",
+                     "type": "url",
+                     "url": "https://git-scm.com/book/en/v2"
+                  }, {
+                     "date_added": "13242669277761122",
+                     "guid": "4a33c081-5611-4a87-9888-f1b49e0dd62c",
+                     "id": "1800",
+                     "name": "Vim: There's No Such Thing As Too Many Vim Plugins - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=6EWpGrj2Wes"
+                  }, {
+                     "date_added": "13242677367541446",
+                     "guid": "78442984-59b1-4b54-b64b-94edcc5a6767",
+                     "id": "1801",
+                     "name": "Torrenting Setup with Transmission - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=fpYbJCqpPS4"
+                  }, {
+                     "date_added": "13242823289951636",
+                     "guid": "6fa8f1b5-ded1-430f-86f5-8306f4edb107",
+                     "id": "1803",
+                     "name": "MAN PAGES - HOW TO READ MAN PAGES",
+                     "type": "url",
+                     "url": "https://www.cs.mcgill.ca/~guide/help/man.html"
+                  }, {
+                     "children": [ {
+                        "date_added": "13242924717157522",
+                        "guid": "cd9193a0-b6fd-4a21-87fd-f157d041336e",
+                        "id": "1807",
+                        "name": "vim ide - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=vim+ide&sxsrf=ALeKk00KwTDp6GADUp_qGjZizcIz3hHJTA:1597261652123&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiG-oyrt5brAhVC-aQKHf5aDYQQ_AUoAnoECA4QBA&biw=1846&bih=920"
+                     }, {
+                        "date_added": "13242924717158561",
+                        "guid": "19550724-f341-463c-8fd6-bc604b632f58",
+                        "id": "1808",
+                        "name": "Vim Is The Perfect IDE - DEV",
+                        "type": "url",
+                        "url": "https://dev.to/allanmacgregor/vim-is-the-perfect-ide-e80"
+                     }, {
+                        "date_added": "13242924717159508",
+                        "guid": "ae98ed5c-df24-4579-8f8f-4437100d6512",
+                        "id": "1809",
+                        "name": "OpenRC vs runit detailed comparison as of 2020 - Slant",
+                        "type": "url",
+                        "url": "https://www.slant.co/versus/12958/12960/~openrc_vs_runit"
+                     }, {
+                        "date_added": "13242924717160649",
+                        "guid": "6195cd16-4082-49df-822f-9fe15e6dff6d",
+                        "id": "1810",
+                        "name": "Wiki | Main / runit",
+                        "type": "url",
+                        "url": "https://wiki.artixlinux.org/Main/Runit"
+                     }, {
+                        "date_added": "13242924717161503",
+                        "guid": "23e39e9d-7bb0-4ece-9554-2621a266f355",
+                        "id": "1811",
+                        "name": "Services and Daemons - runit - Void Linux Handbook",
+                        "type": "url",
+                        "url": "https://docs.voidlinux.org/config/services/index.html"
+                     }, {
+                        "date_added": "13242924717162211",
+                        "guid": "66176097-120e-4a2b-a5e0-770c7c8c9ad9",
+                        "id": "1812",
+                        "name": "Comparison of init systems - Gentoo Wiki",
+                        "type": "url",
+                        "url": "https://wiki.gentoo.org/wiki/Comparison_of_init_systems"
+                     }, {
+                        "date_added": "13242924717163440",
+                        "guid": "6fbb20d8-2ba5-4a20-9626-19078e2521d9",
+                        "id": "1813",
+                        "name": "Arch Linux - rxvt-unicode 9.22-10 (x86_64)",
+                        "type": "url",
+                        "url": "https://www.archlinux.org/packages/community/x86_64/rxvt-unicode/"
+                     }, {
+                        "date_added": "13242924717164001",
+                        "guid": "0bae9e23-22df-4904-9f68-7fe33c7eb358",
+                        "id": "1814",
+                        "name": "vscode vim - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=vscode+vim&sxsrf=ALeKk00ssCeH9i3tyuR8iiwMKA8mDLuezw:1597335155972&source=lnms&tbm=vid&sa=X&ved=2ahUKEwj26ruUyZjrAhVBkMMKHfzhBWQQ_AUoAnoECA0QBA&biw=1906&bih=940"
+                     }, {
+                        "date_added": "13242924717164559",
+                        "guid": "b2597da4-7fa7-4521-8084-f73dedbd3eb8",
+                        "id": "1815",
+                        "name": "How to Configure Vim like VSCode - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=gnupOrSEikQ"
+                     }, {
+                        "date_added": "13242924717165107",
+                        "guid": "467f6e02-df4e-4320-8e24-23d430a80415",
+                        "id": "1816",
+                        "name": "init.vim",
+                        "type": "url",
+                        "url": "https://gist.github.com/benawad/b768f5a5bbd92c8baabd363b7e79786f"
+                     }, {
+                        "date_added": "13242924717165650",
+                        "guid": "bb74e4e9-26f5-47bb-b704-5a2a5ae8111b",
+                        "id": "1817",
+                        "name": "Luke Smith - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/c/LukeSmithxyz/search?query=zsh"
+                     }, {
+                        "date_added": "13242924717166195",
+                        "guid": "5b7c5894-f2f4-45ca-8177-2d8259665aee",
+                        "id": "1818",
+                        "name": "zsh: Syntax Highlighting, vi-mode, Autocomplete, more - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=eLEo4OQ-cuQ"
+                     }, {
+                        "date_added": "13242924717166751",
+                        "guid": "36d537d4-9647-4094-b933-dcf5594e2a21",
+                        "id": "1819",
+                        "name": "You Really Don't Need Oh My Zsh And Here's Why (Rant) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=hLxr9hLfO0Q"
+                     }, {
+                        "date_added": "13242924717167308",
+                        "guid": "958f7330-c3e4-45be-be83-ac3a43ff02d0",
+                        "id": "1820",
+                        "name": "Some bashrc recommendations and what I use - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=_UrDsbs0-OE"
+                     }, {
+                        "date_added": "13242924717167861",
+                        "guid": "14b900e2-cb86-425b-97f8-13c397698d8d",
+                        "id": "1821",
+                        "name": "Luke Smith - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/c/LukeSmithxyz/playlists"
+                     }, {
+                        "date_added": "13242924717168406",
+                        "guid": "e9ddb29b-a9ed-42d3-b40c-9c87e749d45b",
+                        "id": "1822",
+                        "name": "Bash, Shell and UNIX Chaddery - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/playlist?list=PL-p5XmQHB_JREOtBfLdKSswBGYyXwXMUy"
+                     }, {
+                        "date_added": "13242924717168954",
+                        "guid": "8e7dcdba-05b9-4602-bd84-772fab87ad10",
+                        "id": "1823",
+                        "name": "My PERSONAL Scripts (N64 GAYMER CONFIRMED!) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=8GELGHKsa-k&list=PL-p5XmQHB_JREOtBfLdKSswBGYyXwXMUy&index=18"
+                     }, {
+                        "date_added": "13242924717169511",
+                        "guid": "e4d4913c-9244-4c3a-a0f2-433a4dd5dd5a",
+                        "id": "1824",
+                        "name": "Wallpapers Easily and \"Hackably\" on Linux - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=IUvM2Hc6jtk&list=PL-p5XmQHB_JREOtBfLdKSswBGYyXwXMUy&index=16"
+                     }, {
+                        "date_added": "13242924717170068",
+                        "guid": "48fdc3cb-37ec-49cb-8d5a-bf4321a29086",
+                        "id": "1825",
+                        "name": "Writing a Network Traffic module (No Lame Dependencies) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=w5phSVBEHhQ&list=PL-p5XmQHB_JREOtBfLdKSswBGYyXwXMUy&index=20"
+                     }, {
+                        "date_added": "13242924717170625",
+                        "guid": "ad2000bb-1784-4bf8-9d86-4ac9c8abb445",
+                        "id": "1826",
+                        "name": "Don't Be a Bash BRAINLET! (Shell is all about streams!) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=bkgeFi4PwOg"
+                     }, {
+                        "date_added": "13242924717171183",
+                        "guid": "f6301565-d662-4ef5-bf49-a3a3eb1e44ec",
+                        "id": "1827",
+                        "name": "Let's Shell Script Together: Case statements, audio control and more - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=zrUW14L_uqE"
+                     }, {
+                        "date_added": "13242924717171737",
+                        "guid": "8238ecf1-e764-43a0-bfc4-89a0d09cb083",
+                        "id": "1828",
+                        "name": "Customizing a Status Bar in dwm (Weather, Audio, Mail, Battery and more) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=NuS_JLkQbKc"
+                     }, {
+                        "date_added": "13242924717172290",
+                        "guid": "0c687dbe-216c-4e17-99c4-7f61b082b319",
+                        "id": "1829",
+                        "name": "what is x11 root window - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=what+is+x11+root+window&sxsrf=ALeKk01WbgziLHq5ou67urBn8BiUlTRrkA:1597338765168&source=lnms&sa=X&ved=0ahUKEwiVwLvN1pjrAhXypIsKHZfPBCUQ_AUICSgA&biw=1906&bih=940&dpr=1"
+                     }, {
+                        "date_added": "13242924717172862",
+                        "guid": "44779c29-5072-4675-8d45-b69ec3db94e6",
+                        "id": "1830",
+                        "name": "Xlib Programming Manual: Display Macros",
+                        "type": "url",
+                        "url": "https://tronche.com/gui/x/xlib/display/display-macros.html"
+                     }, {
+                        "date_added": "13242924717173424",
+                        "guid": "23f7858a-4146-41ae-8a57-0862df0b9d69",
+                        "id": "1831",
+                        "name": "Root window - Wikipedia",
+                        "type": "url",
+                        "url": "https://en.wikipedia.org/wiki/Root_window"
+                     }, {
+                        "date_added": "13242924717173967",
+                        "guid": "913f2a42-cba3-4d5e-8aa9-25e7de85eabc",
+                        "id": "1832",
+                        "name": "Xorg X11 Set a window to be root window (/background). : archlinux",
+                        "type": "url",
+                        "url": "https://www.reddit.com/r/archlinux/comments/dl490w/xorg_x11_set_a_window_to_be_root_window_background/"
+                     }, {
+                        "date_added": "13242924717174516",
+                        "guid": "844025dc-cdfd-4da5-9efb-e33d56267966",
+                        "id": "1833",
+                        "name": "shell script arithmetic - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=shell+script+arithmetic&sxsrf=ALeKk03auWlx74j0YccZ39Y2S5ampKy8vw:1597346632140&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiBhN3085jrAhVCx4sKHQfCAsAQ_AUoAnoECA8QBA&biw=1906&bih=940"
+                     }, {
+                        "date_added": "13242924717175078",
+                        "guid": "666fadb4-f81f-4ccd-a83f-a0f2236170e1",
+                        "id": "1834",
+                        "name": "5.9. Math in Shell Scripts — Introduction to Unix Study Guide",
+                        "type": "url",
+                        "url": "http://faculty.salina.k-state.edu/tim/unix_sg/bash/math.html"
+                     }, {
+                        "date_added": "13242924717175632",
+                        "guid": "05566246-2dfc-4f53-b2ae-9ad6466c7976",
+                        "id": "1835",
+                        "name": "Perform arithmetic operations - Linux Shell Scripting Tutorial - A Beginner's handbook",
+                        "type": "url",
+                        "url": "https://bash.cyberciti.biz/guide/Perform_arithmetic_operations"
+                     }, {
+                        "date_added": "13242924717176184",
+                        "guid": "c2282f0d-667f-4ab9-9e35-9ff542530bc9",
+                        "id": "1836",
+                        "name": "Shell Scripting Tutorial for Beginners 10 - Perform arithmetic operations - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=kr3WP_-bu8A"
+                     }, {
+                        "date_added": "13242924717176737",
+                        "guid": "e2bccd82-b2e3-46a1-b15f-b2f04ca8fff5",
+                        "id": "1837",
+                        "name": "Shell Scripting Tutorial for Beginners 6 - File test operators - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=uVi5o38NGi0&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_&index=6"
+                     }, {
+                        "date_added": "13242924717177465",
+                        "guid": "508289ed-6489-477f-be0c-c8cc45a72b44",
+                        "id": "1838",
+                        "name": "visudo no editor found - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=visudo+no+editor+found&oq=visudo+no+editor+found&aqs=chrome..69i57.6585j0j1&sourceid=chrome&ie=UTF-8"
+                     }, {
+                        "date_added": "13242924717178030",
+                        "guid": "208cda81-4312-4951-9470-5abc443d5ccf",
+                        "id": "1839",
+                        "name": "visudo does not respect VISUAL or EDITOR / Applications & Desktop Environments / Arch Linux Forums",
+                        "type": "url",
+                        "url": "https://bbs.archlinux.org/viewtopic.php?id=97866"
+                     }, {
+                        "date_added": "13242924717178585",
+                        "guid": "2f005518-ebf5-464b-a9d1-ce3ac62bc10a",
+                        "id": "1840",
+                        "name": "arch multiple keyboard layouts - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=arch+multiple+keyboard+layouts&oq=arch+multiple+keyboard+layouts&aqs=chrome.0.69i59.10649j0j1&sourceid=chrome&ie=UTF-8"
+                     }, {
+                        "date_added": "13242924717179144",
+                        "guid": "08da133c-f5ec-4da9-ad82-a351986d4927",
+                        "id": "1841",
+                        "name": "[Solved] Multiple Keyboard Layouts / Newbie Corner / Arch Linux Forums",
+                        "type": "url",
+                        "url": "https://bbs.archlinux.org/viewtopic.php?id=85196"
+                     }, {
+                        "date_added": "13242924717179694",
+                        "guid": "f1b2be25-3c2b-4ef0-a56c-a387f3683eb6",
+                        "id": "1842",
+                        "name": "Explanations - Introduction & Table of Contents",
+                        "type": "url",
+                        "url": "https://magcius.github.io/xplain/article/"
+                     }, {
+                        "date_added": "13242924717180244",
+                        "guid": "e50d8505-79d8-4232-a694-26807377f306",
+                        "id": "1843",
+                        "name": "Explanations - X Window System Basics",
+                        "type": "url",
+                        "url": "https://magcius.github.io/xplain/article/x-basics.html"
+                     }, {
+                        "date_added": "13242924717180793",
+                        "guid": "9880f17e-0891-444d-a922-eda144d0f23b",
+                        "id": "1844",
+                        "name": "Xorg/Keyboard configuration - ArchWiki",
+                        "type": "url",
+                        "url": "https://wiki.archlinux.org/index.php/Xorg/Keyboard_configuration"
+                     }, {
+                        "date_added": "13242924717181341",
+                        "guid": "9076c3b9-d4c4-40e8-9460-d0d3d077f450",
+                        "id": "1845",
+                        "name": "lf file manager - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?sxsrf=ALeKk03g4kgrnyvrqizK4N5FMG25YLwwRw:1597488157654&q=lf+file+manager&spell=1&sa=X&ved=2ahUKEwjZxa2Rg53rAhU_AxAIHfOSAkEQBSgAegQIDhAo&biw=1846&bih=920"
+                     }, {
+                        "date_added": "13242924717181902",
+                        "guid": "9e82b418-0ca4-4547-8cc3-92619daaeccd",
+                        "id": "1846",
+                        "name": "man ranger (1): visual file manager",
+                        "type": "url",
+                        "url": "http://manpages.org/ranger"
+                     }, {
+                        "date_added": "13242924717182452",
+                        "guid": "a0aa351b-33fe-486d-be3e-8f32b5c197d8",
+                        "id": "1847",
+                        "name": "New Tab",
+                        "type": "url",
+                        "url": "chrome://newtab/"
+                     }, {
+                        "date_added": "13242924717183006",
+                        "guid": "95c61803-d997-4f49-8b49-0cafffdaa331",
+                        "id": "1848",
+                        "name": "Vim: There's No Such Thing As Too Many Vim Plugins - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=6EWpGrj2Wes"
+                     }, {
+                        "date_added": "13242924717183569",
+                        "guid": "1c46fd3c-219e-46bd-807b-5260f9d2a25b",
+                        "id": "1849",
+                        "name": "Coding Adventure: Atmosphere - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=DxfEbulyFcY"
+                     }, {
+                        "date_added": "13242924717184123",
+                        "guid": "a88433a2-b62b-47f4-838a-f7fe4f16d6f0",
+                        "id": "1850",
+                        "name": "dotfiles/init.vim at master · BrodieRobertson/dotfiles",
+                        "type": "url",
+                        "url": "https://github.com/BrodieRobertson/dotfiles/blob/master/config/nvim/init.vim"
+                     }, {
+                        "date_added": "13242924717184678",
+                        "guid": "9db739bc-91e1-4729-9a56-f0ece4d87162",
+                        "id": "1851",
+                        "name": "Language servers · neoclide/coc.nvim Wiki",
+                        "type": "url",
+                        "url": "https://github.com/neoclide/coc.nvim/wiki/Language-servers"
+                     }, {
+                        "date_added": "13242924717185230",
+                        "guid": "8c409714-2e98-492e-a00b-13f8d48c44c4",
+                        "id": "1852",
+                        "name": "signal(7) — Arch manual pages",
+                        "type": "url",
+                        "url": "https://jlk.fjfi.cvut.cz/arch/manpages/man/signal.7.en"
+                     }, {
+                        "date_added": "13242924717185782",
+                        "guid": "08a7594f-9d35-43f5-a63f-22bd7219a45a",
+                        "id": "1853",
+                        "name": "New Tab",
+                        "type": "url",
+                        "url": "chrome://newtab/"
+                     }, {
+                        "date_added": "13242924717186327",
+                        "guid": "c366c020-ccb1-4548-813b-b83522042eea",
+                        "id": "1854",
+                        "name": "Mikhail Blag",
+                        "type": "url",
+                        "url": "https://vk.com/id194167835"
+                     }, {
+                        "date_added": "13242924717186874",
+                        "guid": "9ef4c9ef-e6a3-4f45-84f9-7048118182c2",
+                        "id": "1855",
+                        "name": "New Tab",
+                        "type": "url",
+                        "url": "chrome://newtab/"
+                     }, {
+                        "date_added": "13242924717187419",
+                        "guid": "ee6ec74b-a338-4509-ad42-e86980fffc5b",
+                        "id": "1856",
+                        "name": "youtube viewer - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=youtube+viewer&sxsrf=ALeKk029Mq6Cqf2Gg3HdB6Hk-70ZKcHOHA:1598101028429&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiBhPWg7q7rAhXHAhAIHY7NAlcQ_AUoAnoECAsQBA&biw=1854&bih=933"
+                     }, {
+                        "date_added": "13242924717187988",
+                        "guid": "c18ffcc3-40b5-4950-b8e1-2beae2de9cc7",
+                        "id": "1857",
+                        "name": "trizen/youtube-viewer: Lightweight application for searching and playing videos from YouTube.",
+                        "type": "url",
+                        "url": "https://github.com/trizen/youtube-viewer"
+                     }, {
+                        "date_added": "13242924717188548",
+                        "guid": "d5845933-6dd1-4c4f-b1ed-7ae782938083",
+                        "id": "1858",
+                        "name": "What NOT to do: Self Modifying Code - Computerphile - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=SWU_DgjSwRU"
+                     }, {
+                        "date_added": "13242924717189102",
+                        "guid": "9db7cddf-33a1-496b-9351-da0b6a67ea0a",
+                        "id": "1859",
+                        "name": "find command - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=find+command&oq=find+command&aqs=chrome..69i57j69i65.3808j0j1&sourceid=chrome&ie=UTF-8"
+                     }, {
+                        "date_added": "13242924717189654",
+                        "guid": "cd317261-d5a0-48d1-993e-1a604c26d818",
+                        "id": "1860",
+                        "name": "find command in Linux with examples - GeeksforGeeks",
+                        "type": "url",
+                        "url": "https://www.geeksforgeeks.org/find-command-in-linux-with-examples/"
+                     }, {
+                        "date_added": "13242924717190210",
+                        "guid": "2a9a4a23-fc6b-4fe4-8c1b-5d9309bc685d",
+                        "id": "1861",
+                        "name": "arch torrent - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=arch+torrent&oq=arch+torrent&aqs=chrome..69i57.3576j0j1&sourceid=chrome&ie=UTF-8"
+                     }, {
+                        "date_added": "13242924717190765",
+                        "guid": "e3f28ee6-9bd2-4690-bf64-810afef0678e",
+                        "id": "1862",
+                        "name": "Transmission - ArchWiki",
+                        "type": "url",
+                        "url": "https://wiki.archlinux.org/index.php/Transmission"
+                     }, {
+                        "date_added": "13242924717191312",
+                        "guid": "ed4dd916-3a38-4d2d-b399-833798f0347f",
+                        "id": "1863",
+                        "name": "runit tor service - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=runit+tor+service&sxsrf=ALeKk01QU6iKvvz2WxC5NBo2PGlmT9akEw:1598108579643&source=lnms&sa=X&ved=0ahUKEwjrvM6xiq_rAhVEpYsKHRGvBpMQ_AUICSgA&biw=1854&bih=933&dpr=1"
+                     }, {
+                        "date_added": "13242924717191877",
+                        "guid": "11df939f-a30d-4aef-b501-99975d279608",
+                        "id": "1864",
+                        "name": "runit - collection of run scripts",
+                        "type": "url",
+                        "url": "http://smarden.org/runit/runscripts.html"
+                     }, {
+                        "date_added": "13242924717192425",
+                        "guid": "75e511d9-9251-471d-ad6b-ebdf0fade5e3",
+                        "id": "1865",
+                        "name": "[SOLVED] Please tell me how to turn on the start of the Tor service on Runit",
+                        "type": "url",
+                        "url": "https://forum.artixlinux.org/index.php/topic,1204.0.html"
+                     }, {
+                        "date_added": "13242924717192991",
+                        "guid": "d4e8e832-518c-4014-9468-4ad0c009d74f",
+                        "id": "1866",
+                        "name": "Installing Artix Linux (Like Arch, but better) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=nCc_4fSYzRA"
+                     }, {
+                        "date_added": "13242924717193545",
+                        "guid": "3132ebb3-0699-4403-9a54-394fda039741",
+                        "id": "1867",
+                        "name": "Wiki | Main / runit",
+                        "type": "url",
+                        "url": "https://wiki.artixlinux.org/Main/Runit"
+                     }, {
+                        "date_added": "13242924717194344",
+                        "guid": "3ca423af-0122-4097-a7f2-b053442f2d0c",
+                        "id": "1868",
+                        "name": "Misery: перевод, произношение, транскрипция, примеры использования",
+                        "type": "url",
+                        "url": "https://wooordhunt.ru/word/misery"
+                     }, {
+                        "date_added": "13242924717194899",
+                        "guid": "6bf450d3-d79f-4e18-8ded-2c9c51d9688e",
+                        "id": "1869",
+                        "name": "vimscript - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=vimscript&sxsrf=ALeKk02IczGs3QIPjzbnD99-jN4VQ9bcPw:1598128130385&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiYmJGc06_rAhWItYsKHXTXC3cQ_AUoAnoECAsQBA&biw=1854&bih=933"
+                     }, {
+                        "date_added": "13242924717195461",
+                        "guid": "dbd2a45f-0ca0-4af1-8fbe-85c223ee720a",
+                        "id": "1870",
+                        "name": "Learn Vimscript the Hard Way",
+                        "type": "url",
+                        "url": "https://learnvimscriptthehardway.stevelosh.com/"
+                     }, {
+                        "date_added": "13242924717196010",
+                        "guid": "cfd8e464-86e4-4471-afbe-080576251eec",
+                        "id": "1871",
+                        "name": "Vim scripting cheatsheet",
+                        "type": "url",
+                        "url": "https://devhints.io/vimscript"
+                     }, {
+                        "date_added": "13242924717196573",
+                        "guid": "fa4a15a5-e8ea-4747-81d5-216043dd17ea",
+                        "id": "1872",
+                        "name": "Rich Soni Explains VimScript - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=WfyXKnQ9kAQ"
+                     }, {
+                        "date_added": "13242924717197128",
+                        "guid": "65e96d7a-b4b4-4b25-8a7f-01afa88e8f24",
+                        "id": "1873",
+                        "name": "nvim lua - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=nvim+lua&sxsrf=ALeKk03Y_U4yBZKTlbFAEnVo6c7KdceN8w:1598128711188&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjPzoqx1a_rAhWxlosKHa--CbUQ_AUoAnoECA4QBA&biw=1854&bih=933"
+                     }, {
+                        "date_added": "13242924717197699",
+                        "guid": "624f6dad-a9c5-42e8-b7b7-1cf1dc6c2ee1",
+                        "id": "1874",
+                        "name": "Vim Org Mode: Can This Really Add Emacs Org Mode To Vim - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=lQ0wOGEB9co"
+                     }, {
+                        "date_added": "13242924717198259",
+                        "guid": "441a77ad-db65-4421-84e7-96eb1f39728f",
+                        "id": "1875",
+                        "name": "Getting Started With Org Mode - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=SzA2YODtgK4"
+                     }, {
+                        "date_added": "13242924717198813",
+                        "guid": "9914fb99-faef-484c-93eb-e287f1f0bc73",
+                        "id": "1876",
+                        "name": "Nvim documentation: lua",
+                        "type": "url",
+                        "url": "https://neovim.io/doc/user/lua.html"
+                     }, {
+                        "date_added": "13242924717199365",
+                        "guid": "d1cf7682-3b18-47b9-99d4-7439ebef4e2c",
+                        "id": "1877",
+                        "name": "🌑 Lua and Neovim",
+                        "type": "url",
+                        "url": "https://teukka.tech/luanvim.html"
+                     }, {
+                        "date_added": "13242924717199916",
+                        "guid": "f2255c88-a115-49d6-9a52-deced9ec8109",
+                        "id": "1878",
+                        "name": "nerd tree toggle - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=nerd+tree+toggle&oq=nerd+tree+toggle&aqs=chrome..69i57.33956j0j1&sourceid=chrome&ie=UTF-8"
+                     }, {
+                        "date_added": "13242924717200475",
+                        "guid": "ba62ee36-fca1-44a1-a683-a45660986458",
+                        "id": "1879",
+                        "name": "vim - One mapping to toggle NERDTree and open to current file when toggling on - Stack Overflow",
+                        "type": "url",
+                        "url": "https://stackoverflow.com/questions/33465357/one-mapping-to-toggle-nerdtree-and-open-to-current-file-when-toggling-on"
+                     }, {
+                        "date_added": "13242924717201048",
+                        "guid": "459f04fa-c02e-4949-94a8-c01223e00e8d",
+                        "id": "1880",
+                        "name": "LukeSmithxyz/voidrice: My dotfiles (deployed by LARBS)",
+                        "type": "url",
+                        "url": "https://github.com/LukeSmithxyz/voidrice"
+                     }, {
+                        "date_added": "13242924717201604",
+                        "guid": "d0ba61a3-4a18-4053-96ac-7eadd755e135",
+                        "id": "1881",
+                        "name": "LARBS—Luke's Auto-Rice Bootstrapping Scripts",
+                        "type": "url",
+                        "url": "https://larbs.xyz/"
+                     }, {
+                        "date_added": "13242924717202150",
+                        "guid": "93c648bb-d638-429d-9927-f6dcaa288071",
+                        "id": "1882",
+                        "name": "mbgl-git/dotfiles: Linux dotfiles and configs.",
+                        "type": "url",
+                        "url": "https://github.com/mbgl-git/dotfiles"
+                     }, {
+                        "date_added": "13242924717202859",
+                        "guid": "3a0ae75b-c42c-4717-bb73-00210210f8f5",
+                        "id": "1883",
+                        "name": "git add only specific files - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?sxsrf=ALeKk03kg7dJq92UUpZa6UJPZEhJcz6z6A%3A1598182230962&ei=VlNCX8KkOuGnrgSS25rICg&q=git+add+only+specific+files&oq=git+add+only+specific+&gs_lcp=CgZwc3ktYWIQAxgBMgQIIxAnMgIIADICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEEdQ7WxY7WxgrX1oAHABeACAAUeIAUeSAQExmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab"
+                     }, {
+                        "date_added": "13242924717203605",
+                        "guid": "e24713c4-1fea-491f-bacd-06d6b45bcc04",
+                        "id": "1884",
+                        "name": "git - How do I commit only some files? - Stack Overflow",
+                        "type": "url",
+                        "url": "https://stackoverflow.com/questions/7239333/how-do-i-commit-only-some-files"
+                     }, {
+                        "date_added": "13242924717204235",
+                        "guid": "83a330c2-1246-4ae9-8ee0-704c64611f65",
+                        "id": "1885",
+                        "name": "ultisnips and coc - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=ultisnips+and+coc&oq=ultisnips+and+coc&aqs=chrome..69i57.5256j0j1&sourceid=chrome&ie=UTF-8"
+                     }, {
+                        "date_added": "13242924717204811",
+                        "guid": "0e353d06-eb7e-401e-8b2f-6a7250a59da5",
+                        "id": "1886",
+                        "name": "neoclide/coc-snippets: Snippets solution for coc.nvim",
+                        "type": "url",
+                        "url": "https://github.com/neoclide/coc-snippets"
+                     }, {
+                        "date_added": "13242924717205371",
+                        "guid": "36ae6939-c390-49ae-ad3d-d4959d332e8b",
+                        "id": "1887",
+                        "name": "Messages",
+                        "type": "url",
+                        "url": "https://vk.com/im?peers=c24"
+                     }, {
+                        "date_added": "13242924717205925",
+                        "guid": "95393e11-6502-46c3-b8ab-f5d8a1e547f9",
+                        "id": "1888",
+                        "name": "Miazaki - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=Miazaki&oq=Miazaki&aqs=chrome..69i57.824j0j1&sourceid=chrome&ie=UTF-8"
+                     }, {
+                        "date_added": "13242924717206484",
+                        "guid": "20c311d4-69b4-4146-97fe-92be33844b7d",
+                        "id": "1889",
+                        "name": "New Tab",
+                        "type": "url",
+                        "url": "chrome://newtab/"
+                     }, {
+                        "date_added": "13242924717207038",
+                        "guid": "910d8499-cbb9-46ee-9162-6f6b5d6f60d9",
+                        "id": "1890",
+                        "name": "Oban Star Racers soundtrack 01 - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=IFCD3vTaENY&list=PLE1wO0d7T2Q9cj4ABaqvfzl87su_9NKCE"
+                     }, {
+                        "date_added": "13242924717207597",
+                        "guid": "aec47a50-8dbc-45db-bce4-bbd09299154b",
+                        "id": "1891",
+                        "name": "Oban ost - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/playlist?list=PLE1wO0d7T2Q9cj4ABaqvfzl87su_9NKCE"
+                     }, {
+                        "date_added": "13242924717208147",
+                        "guid": "00c84180-b7ec-4f92-9dc8-40e7bb5620f2",
+                        "id": "1892",
+                        "name": "youtube-dl dowload playlist - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=youtube-dl+dowload+playlist&oq=youtube-dl+dowload+playlist&aqs=chrome..69i57.9128j0j1&sourceid=chrome&ie=UTF-8"
+                     }, {
+                        "date_added": "13242924717208710",
+                        "guid": "a45db108-daea-445d-bc21-79175a2bf853",
+                        "id": "1893",
+                        "name": "Youtube - downloading a playlist - youtube-dl - Stack Overflow",
+                        "type": "url",
+                        "url": "https://stackoverflow.com/questions/48422377/youtube-downloading-a-playlist-youtube-dl"
+                     }, {
+                        "date_added": "13242924717209266",
+                        "guid": "e05d5265-131a-495c-a7b6-f65798804146",
+                        "id": "1894",
+                        "name": "Youtube-dl Tutorial With Examples For Beginners - OSTechNix",
+                        "type": "url",
+                        "url": "https://ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/"
+                     }, {
+                        "date_added": "13242924717209817",
+                        "guid": "70e67c5e-245b-495e-97ab-946c02afb157",
+                        "id": "1895",
+                        "name": "Requested formats are incompatible for merge and will be merged into mkv - Google Search",
+                        "type": "url",
+                        "url": "https://www.google.com/search?q=Requested+formats+are+incompatible+for+merge+and+will+be+merged+into+mkv&oq=Requested+formats+are+incompatible+for+merge+and+will+be+merged+into+mkv&aqs=chrome..69i57.526j0j1&sourceid=chrome&ie=UTF-8"
+                     }, {
+                        "date_added": "13242924717210589",
+                        "guid": "3593206c-6695-43fe-8ece-b55a1aabc023",
+                        "id": "1896",
+                        "name": "youtube dl - Requested formats are incompatible for merge - Ask Ubuntu",
+                        "type": "url",
+                        "url": "https://askubuntu.com/questions/806258/requested-formats-are-incompatible-for-merge"
+                     }, {
+                        "date_added": "13242924717211151",
+                        "guid": "c597b023-b561-44ee-a710-b1a2348be80e",
+                        "id": "1897",
+                        "name": "New Tab",
+                        "type": "url",
+                        "url": "chrome://newtab/"
+                     } ],
+                     "date_added": "13242924717155992",
+                     "date_modified": "13242924717211151",
+                     "guid": "9ddd06a4-da67-4222-83be-51c48f95b54d",
+                     "id": "1806",
+                     "name": "26_08_2020",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13243370855804298",
+                     "guid": "ad01a6ae-8582-4649-8f5c-342325a8790a",
+                     "id": "2132",
+                     "name": "linux - How to copy symbolic links? - Super User",
+                     "type": "url",
+                     "url": "https://superuser.com/questions/138587/how-to-copy-symbolic-links"
+                  }, {
+                     "date_added": "13243419452482962",
+                     "guid": "ea1fe582-ddd8-4aff-bc1c-f9627d5d1d16",
+                     "id": "2134",
+                     "name": "Shrink ext2 ext3 and ext4 file system and reduce the size of a logical volume with only one command. - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=tTpStv6cfeQ"
+                  }, {
+                     "date_added": "13243419458631888",
+                     "guid": "d3959c16-b3f7-448c-a4d4-8dd7966acafb",
+                     "id": "2135",
+                     "name": "Complete guide to file system shrinking and reducing the size of the underlying logical volume. - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=8AD8ZiYDavY"
                   } ],
                   "date_added": "13241556756294934",
-                  "date_modified": "13242605888031486",
+                  "date_modified": "13243419458631888",
                   "guid": "67732b7c-b90b-40c0-bce6-74d11dd293fa",
                   "id": "381",
                   "name": "Arch",
@@ -4950,6 +5644,879 @@
                "name": "Сooking",
                "type": "folder"
             }, {
+               "children": [ {
+                  "date_added": "13243086871641665",
+                  "guid": "0d8f5f29-7be0-4cc0-ab8e-f35fbcf23221",
+                  "id": "1905",
+                  "name": "Understanding Color - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Qj1FK8n7WgY"
+               }, {
+                  "date_added": "13243088209385192",
+                  "guid": "ad95bddb-6ee8-4a6a-b844-fc366dd0c871",
+                  "id": "1907",
+                  "name": "Beginner's Guide to Art Fundamentals - Episode 1 - Introduction - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=pQR4v36N5cA"
+               }, {
+                  "date_added": "13243095759420033",
+                  "guid": "ba8cbb09-63d9-4738-a7ad-8c0e29b63c55",
+                  "id": "1908",
+                  "name": "Color and Light - James Gurney.pdf",
+                  "type": "url",
+                  "url": "https://vk.com/doc76124534_449528346?hash=2a47cef186bcb21cd0&dl=ec6d94ccf38ef75231"
+               }, {
+                  "date_added": "13243095807298218",
+                  "guid": "0434bcb1-d68d-4faa-93c1-108724003f3c",
+                  "id": "1909",
+                  "name": "andrew-loomis-creative-illustration.pdf",
+                  "type": "url",
+                  "url": "https://illustrationage.files.wordpress.com/2013/04/andrew-loomis-creative-illustration.pdf"
+               }, {
+                  "date_added": "13243095973922996",
+                  "guid": "22337e20-fcac-4e64-a89a-88cc89731f7c",
+                  "id": "1910",
+                  "name": "Все, что вы хотели знать о рисовании, но боялись.. | Digital Painting Classes I СG рисунок I ART DPC",
+                  "type": "url",
+                  "url": "https://vk.com/wall-53141502_67306"
+               }, {
+                  "date_added": "13243096515619128",
+                  "guid": "1af3e46c-84c1-4cec-be7a-07deae8145bb",
+                  "id": "1911",
+                  "name": "Три бестселлера которые помогут вам в обучении,.. | Eoni•D",
+                  "type": "url",
+                  "url": "https://vk.com/wall-36009335_1777"
+               }, {
+                  "children": [ {
+                     "date_added": "13243102948409910",
+                     "guid": "974ab114-c261-41c6-9c29-819b4fe6f903",
+                     "id": "1912",
+                     "name": "All About BRUSHES in KRITA! - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=j0qZ19l3HFE"
+                  }, {
+                     "date_added": "13243103708092368",
+                     "guid": "d4910bbb-aedd-461e-a51e-701304b3d54c",
+                     "id": "1914",
+                     "name": "Krita Essentials: Line Smoothing - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=10DAk239S6I"
+                  }, {
+                     "date_added": "13243105177796582",
+                     "guid": "fa5a5542-2ea4-4163-8e0a-5317bdd556a3",
+                     "id": "1915",
+                     "name": "How to color your lineart in Krita - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=_GXyUsjjAdg"
+                  }, {
+                     "date_added": "13243105437857182",
+                     "guid": "603d5525-d54b-4271-ae0b-023be4871f63",
+                     "id": "1916",
+                     "name": "Krita Lineart + Cell Shade tutorial - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=T1Qn23OTWHc"
+                  }, {
+                     "date_added": "13243105538209219",
+                     "guid": "cc4f1e4b-4357-48e3-9904-23dceb548677",
+                     "id": "1917",
+                     "name": "How to Blend Colors in Krita - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=stCJc9GaHwM"
+                  }, {
+                     "date_added": "13243106180785514",
+                     "guid": "bc22bd9d-dad1-45ef-9f0c-0dc0ba1f412d",
+                     "id": "1918",
+                     "name": "Tutorial: Coloring with \"Colorize-mask\" in Krita - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=HQdx6H9BIGs"
+                  }, {
+                     "date_added": "13243111568883535",
+                     "guid": "912166d9-06c4-4ce6-b056-b3d6d6ebf963",
+                     "id": "1919",
+                     "name": "Getting Started — Krita Manual version 4.3.0",
+                     "type": "url",
+                     "url": "https://docs.krita.org/en/user_manual/getting_started.html"
+                  }, {
+                     "date_added": "13243245873517723",
+                     "guid": "866439c3-19b9-431a-a144-f88da316d2cd",
+                     "id": "1932",
+                     "name": "My favorites Krita Keyboard Shortcuts - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=tdQpRGdkxpU"
+                  }, {
+                     "date_added": "13243252373324850",
+                     "guid": "e9b97bce-5269-4daa-bb97-73fbdd196ec6",
+                     "id": "1936",
+                     "name": "Krita tutorial: Understanding Krita's blending modes - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=3korE3Xn4eg"
+                  }, {
+                     "date_added": "13243252898803455",
+                     "guid": "44567164-52c9-4788-8914-e2eb96268ad6",
+                     "id": "1937",
+                     "name": "Painting with Blending-modes - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=AybFWViT-3Q"
+                  } ],
+                  "date_added": "13243102962215700",
+                  "date_modified": "13243252898803455",
+                  "guid": "ebb627cf-2955-4bf1-9339-ba1270e0b32d",
+                  "id": "1913",
+                  "name": "Krita",
+                  "type": "folder"
+               }, {
+                  "date_added": "13243112109695444",
+                  "guid": "63b5216f-f619-46b5-bc80-682aa3246a71",
+                  "id": "1920",
+                  "name": "How to Improve Your Art with These 4 Tips - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=BiaXp8kl35g"
+               }, {
+                  "date_added": "13243114543710220",
+                  "guid": "cbe7f89b-4ac5-4c09-9b7e-2eddf7331d65",
+                  "id": "1921",
+                  "name": "Color & Value in Digital Art - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLo_kbikcLfN8V1zuNO3VbMOjgVZbgTUcD"
+               }, {
+                  "date_added": "13243116861866097",
+                  "guid": "5c345bac-ff44-406a-896b-e2f3e351e229",
+                  "id": "1922",
+                  "name": "How To Use Precise Perspective In a Drawing? - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=BY4AlrbpNv4"
+               }, {
+                  "children": [ {
+                     "date_added": "13243117734174864",
+                     "guid": "5a14a979-e109-40c9-991b-6e1a696ad409",
+                     "id": "1923",
+                     "name": "Introduction to Sculpting in Blender 2.8 - Sculpting Essentials - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=A-Wq8K8icpQ"
+                  }, {
+                     "date_added": "13243164776104475",
+                     "guid": "9c3b8a25-e8e2-47c8-8643-e24a16cb1edf",
+                     "id": "1926",
+                     "name": "Sculpting in Blender 2.8 | Beginners Detailed Guide | Every Brush - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=L3XtAFUWNuk"
+                  }, {
+                     "date_added": "13243165364838203",
+                     "guid": "8fcc9e79-2a00-4a3b-a261-f7bafadff9ac",
+                     "id": "1927",
+                     "name": "Sculpting | Beginner Follow Along Tutorial | Easy | Blender 2.8 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=lKY2FIy60nc"
+                  } ],
+                  "date_added": "13243117743708181",
+                  "date_modified": "13243165364838203",
+                  "guid": "e8e2637d-5664-4dc3-a0a2-662e6cc0bd27",
+                  "id": "1924",
+                  "name": "Sculpting",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13243202009339765",
+                     "guid": "c2808470-e079-425f-82b6-6617afa10b3d",
+                     "id": "1928",
+                     "name": "Fast Blender 2.81 Interactive Pivot Point Object Origin Trick - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=-CiWNcPB1CY"
+                  }, {
+                     "date_added": "13243260178948747",
+                     "guid": "ef2c5af2-5856-4bef-a721-f4806424e6ea",
+                     "id": "2128",
+                     "name": "Blender 2.82 Rigging Tutorial (In 2 Minutes!!!) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=PFaqjwpGxOc&list=PLZpDYt0cyiusytIPAOTPRzsa4GK6LgY3_"
+                  }, {
+                     "date_added": "13243263633616936",
+                     "guid": "e7045a3f-51d7-404a-b8ea-c23c356824d3",
+                     "id": "2129",
+                     "name": "Blender 2.82 Speed Rigging Tutorials - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/playlist?list=PLZpDYt0cyiusytIPAOTPRzsa4GK6LgY3_"
+                  }, {
+                     "date_added": "13243263645670471",
+                     "guid": "d70d6b5e-4e52-45b3-a28a-fc6ae69e3627",
+                     "id": "2130",
+                     "name": "Blender 2.8 : Everything About The Principled BSDF (In 3 Minutes) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=_IjSYLt9k2A"
+                  } ],
+                  "date_added": "13243202026929776",
+                  "date_modified": "13243370855804298",
+                  "guid": "d633e808-b7ec-4faa-9ebb-5f1ca11aea67",
+                  "id": "1929",
+                  "name": "Blender",
+                  "type": "folder"
+               }, {
+                  "date_added": "13243210574268921",
+                  "guid": "dab5c96e-55ec-4208-ab1c-baf7f227036b",
+                  "id": "1930",
+                  "name": "Speedpainting Dragons - Livestream Krita Workshop - Libre Graphic Meeting 2020 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=gKXl0nZ9kPc"
+               }, {
+                  "date_added": "13243246968614718",
+                  "guid": "ecfe8719-3171-49bc-813f-ae0d0e1ccefc",
+                  "id": "1933",
+                  "name": "Digital Lineart Tips & Tricks - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=2jqtxKmgSXA"
+               }, {
+                  "date_added": "13243248116742839",
+                  "guid": "2c2d8a1e-981b-44b8-b89b-0e6ca4a49540",
+                  "id": "1934",
+                  "name": "Anatomy Quick Tips: Hair - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=88khFjZwkl0"
+               }, {
+                  "date_added": "13243251549597267",
+                  "guid": "8884f433-43e3-401c-842a-735c88bfdb42",
+                  "id": "1935",
+                  "name": "Shading tutorial for comics using Krita - by David Revoy - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=7FRyAiLIGww"
+               }, {
+                  "children": [ {
+                     "date_added": "13243252973997572",
+                     "guid": "5cc91420-f8a9-4d07-853d-faa922daf13f",
+                     "id": "1939",
+                     "name": "blender bindings - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=blender+bindings&sxsrf=ALeKk01pQh48ln0z9iq2uLdcHNGVKtD9AQ:1598556156137&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjf89vejbzrAhXp-yoKHdEZAToQ_AUoA3oECA0QBQ&biw=1914&bih=953"
+                  }, {
+                     "date_added": "13243252973998852",
+                     "guid": "67edaa35-911d-469a-b485-ca7981013b5e",
+                     "id": "1940",
+                     "name": "Setting and Storing Custom Default Preferences for Blender 2.8 - Blender for Game Development - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=-caKnmXGZ6E&list=PL9z3tc0RL6Z5BQLEOUm4Wa_zoEWSWIhS6&index=2"
+                  }, {
+                     "date_added": "13243252974000058",
+                     "guid": "363d38e8-51d8-4349-af00-fbfb54a65155",
+                     "id": "1941",
+                     "name": "A day in my life | Lex Fridman - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=0m3hGZvD-0s"
+                  }, {
+                     "date_added": "13243252974001244",
+                     "guid": "fceb1fbc-d1b6-47aa-b581-da11175e7b16",
+                     "id": "1942",
+                     "name": "How to Move to the Country: Land and Property needed - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Oy6llZw_ews&t=2s"
+                  }, {
+                     "date_added": "13243252974002429",
+                     "guid": "d618fc50-82c6-4514-84dd-cc14984f2a2c",
+                     "id": "1943",
+                     "name": "art theory - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/results?search_query=art+theory"
+                  }, {
+                     "date_added": "13243252974003582",
+                     "guid": "922102bb-8b5b-4d6e-9992-458c00954133",
+                     "id": "1944",
+                     "name": "The Habits of Effective Artists - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=vM39qhXle4g"
+                  }, {
+                     "date_added": "13243252974004758",
+                     "guid": "01de69f2-0ea6-4906-87de-c73150b3edc7",
+                     "id": "1945",
+                     "name": "What are the art fundamentals? - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=g4DieVnUELk"
+                  }, {
+                     "date_added": "13243252974005933",
+                     "guid": "bb975797-2460-4b5a-b562-6d168cd8eeef",
+                     "id": "1946",
+                     "name": "Learn to Draw #02 - Simplifying Objects + Learning to See - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=nDe7kHa6MVo"
+                  }, {
+                     "date_added": "13243252974007065",
+                     "guid": "fbd47f4e-1e3a-457a-bcc0-e8c2b1b1b1af",
+                     "id": "1947",
+                     "name": "Learn To Draw #01 - Sketching Basics + Materials - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=ewMksAbgdBI&list=PL1HIh25sbqZnkA1T09UtVHoyjYaMJuK0a"
+                  }, {
+                     "date_added": "13243252974008298",
+                     "guid": "9c330b8b-643a-4078-a36b-b7f46193a1fa",
+                     "id": "1948",
+                     "name": "figure drawing for all it's worth - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?sxsrf=ALeKk01NCeQfwuzfWTZlSzcdauwpXhj1ag%3A1598621254979&ei=RgZJX-SvO86nrgSu1K0w&q=figure+drawing+for+all+it%27s+worth&gs_ssp=eJzj4tLP1TcwS04yN0o3YPRSTMtMLy1KVUgpSizPzEtXSMsvUkjMyVHILFEvVijPLyrJAABg9Q-w&oq=figure+drawing+f&gs_lcp=CgZwc3ktYWIQAxgAMgUILhCTAjICCAAyAggAMgIILjICCC4yAgguMgIIADICCAAyAggAMgIIADoECAAQRzoECAAQQzoHCAAQFBCHAlDWNVjtNmD1QWgAcAF4AIABS4gBgwGSAQEymAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab"
+                  }, {
+                     "date_added": "13243252974009437",
+                     "guid": "a2807859-53bb-456c-8f36-525e4a635754",
+                     "id": "1949",
+                     "name": "Andrew Loomis - Figure Drawing For All It's Worth",
+                     "type": "url",
+                     "url": "https://illustrationage.files.wordpress.com/2013/04/andrew-loomis-figure-drawing-for-all-its-worth.pdf"
+                  }, {
+                     "date_added": "13243252974010516",
+                     "guid": "2d6338ca-f2dc-4acc-b853-40bd133ac8fe",
+                     "id": "1950",
+                     "name": "Все, что вы хотели знать о рисовании, но боялись.. | Digital Painting Classes I СG рисунок I ART DPC",
+                     "type": "url",
+                     "url": "https://vk.com/wall-53141502_67306"
+                  }, {
+                     "date_added": "13243252974011694",
+                     "guid": "39311895-7720-4ed2-8586-8dfb240f5695",
+                     "id": "1951",
+                     "name": "Color and Light - James Gurney.pdf",
+                     "type": "url",
+                     "url": "https://vk.com/doc76124534_449528346?hash=2a47cef186bcb21cd0&dl=ec6d94ccf38ef75231"
+                  }, {
+                     "date_added": "13243252974012848",
+                     "guid": "3e14b192-7089-4538-a744-4c2f03962a7b",
+                     "id": "1952",
+                     "name": "creative illustration pdf - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?sxsrf=ALeKk00ukzkwXS_-L33fnuTSyrnqO4U_ig%3A1598622186995&ei=6glJX5zvO4SMrwScg6qgDA&q=creative+illustration+pdf&oq=creative+illustration+pdf&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCC4QJxCTAjoHCAAQFBCHAjoCCC5Q7iZY_S1g9i5oAHAAeACAAVaIAe0CkgEBNZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwicjNfcg77rAhUExosKHZyBCsQQ4dUDCA0&uact=5"
+                  }, {
+                     "date_added": "13243252974014049",
+                     "guid": "96c3b72d-a503-494e-abfe-2e293518a86a",
+                     "id": "1953",
+                     "name": "andrew-loomis-creative-illustration.pdf",
+                     "type": "url",
+                     "url": "https://illustrationage.files.wordpress.com/2013/04/andrew-loomis-creative-illustration.pdf"
+                  }, {
+                     "date_added": "13243252974015196",
+                     "guid": "dad575ad-04ee-4b4f-84cf-bd569958f867",
+                     "id": "1954",
+                     "name": "очень интересная книга по сторибордингу. очень. | Adobe After Effects",
+                     "type": "url",
+                     "url": "https://vk.com/wall-388266_621136"
+                  }, {
+                     "date_added": "13243252974016356",
+                     "guid": "063a0639-d55d-45d5-b3c5-357cd4395adf",
+                     "id": "1955",
+                     "name": "Framed_Ink.pdf",
+                     "type": "url",
+                     "url": "https://vk.com/doc176415392_259530431?hash=0f3404e499aa42eb68&dl=52e807f72a6ae3a675"
+                  }, {
+                     "date_added": "13243252974017507",
+                     "guid": "33142628-6758-4cc1-b545-e9a1c2e9c94d",
+                     "id": "1956",
+                     "name": "james gurney imaginative realism pdf - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?sxsrf=ALeKk00E7MZ7FKicxdVwod0mscyCr2Mr_A%3A1598622636403&ei=rAtJX-ONGM39rgSfvbNI&q=james+gurney+imaginative+realism+pdf&oq=imagenative+realizm&gs_lcp=CgZwc3ktYWIQAxgBMgcILhAnEJMCMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjICCAAyAggAMgIIADICCABQAFgAYPFtaABwAHgAgAFAiAFAkgEBMZgBAKoBB2d3cy13aXrAAQE&sclient=psy-ab"
+                  }, {
+                     "date_added": "13243252974018713",
+                     "guid": "dae4dc10-7785-4f1f-8dcf-107f33bc845b",
+                     "id": "1957",
+                     "name": "How to Draw: Drawing and Sketching Objects and Environments from Your Imagination pdf - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?sxsrf=ALeKk00aJMUUoSGF6PTQVHuCKYucADXZKw%3A1598623426368&ei=wg5JX4yJFuehrgThvYvIDA&q=How+to+Draw%3A+Drawing+and+Sketching+Objects+and+Environments+from+Your+Imagination+pdf&oq=How+to+Draw%3A+Drawing+and+Sketching+Objects+and+Environments+from+Your+Imagination+pdf&gs_lcp=CgZwc3ktYWIQAzIECAAQQzoECAAQRzoECCMQJzoHCAAQFBCHAjoCCC46AggAUM5FWM1PYL5QaABwAXgAgAFZiAGWApIBATSYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwiM8tSriL7rAhXnkIsKHeHeAskQ4dUDCA0&uact=5"
+                  }, {
+                     "date_added": "13243252974019952",
+                     "guid": "ff886aba-f6c2-490b-bc0c-7cad8c8720e3",
+                     "id": "1958",
+                     "name": "[PDF] How to Draw: Drawing and Sketching Objects and Environments from Your Imagination | Semantic Scholar",
+                     "type": "url",
+                     "url": "https://www.semanticscholar.org/paper/How-to-Draw%3A-Drawing-and-Sketching-Objects-and-from-Robertson-Bertling/77706b74fb622c7cde9f1c1edfe793dbb5c0fa54"
+                  }, {
+                     "date_added": "13243252974021143",
+                     "guid": "00ecbe23-8936-4739-866f-b32d2be1757f",
+                     "id": "1959",
+                     "name": "How to Draw drawing and sketching objects and environments from your imagination PDF ( Free | 211 Pages )",
+                     "type": "url",
+                     "url": "https://www.pdfdrive.com/how-to-draw-drawing-and-sketching-objects-and-environments-from-your-imagination-d158148887.html"
+                  }, {
+                     "date_added": "13243252974022423",
+                     "guid": "cfb6deba-3d5d-4a27-9d7d-f66523ba3b28",
+                     "id": "1960",
+                     "name": "How to Draw: drawing and sketching objects and environments from your imagination PDF ( Free | 210 Pages )",
+                     "type": "url",
+                     "url": "https://www.pdfdrive.com/how-to-draw-drawing-and-sketching-objects-and-environments-from-your-imagination-e183817145.html"
+                  }, {
+                     "date_added": "13243252974023545",
+                     "guid": "36f25526-097c-4e95-af08-b3b63fe781fc",
+                     "id": "1961",
+                     "name": "how-to-draw-scott-robertson-and-thomas-bertling.pdf",
+                     "type": "url",
+                     "url": "https://www.scribd.com/document/436479368/how-to-draw-scott-robertson-and-thomas-bertling-pdf"
+                  }, {
+                     "date_added": "13243252974024731",
+                     "guid": "b3ff2bc3-cc3a-495d-8f75-9b0a8cc14981",
+                     "id": "1962",
+                     "name": "Три бестселлера которые помогут вам в обучении,.. | Eoni•D",
+                     "type": "url",
+                     "url": "https://vk.com/wall-36009335_1777"
+                  }, {
+                     "date_added": "13243252974025901",
+                     "guid": "e15dcb1d-c911-4e2d-98ab-e967da93bed0",
+                     "id": "1963",
+                     "name": "Анатомия_Для_Скульпторов.pdf",
+                     "type": "url",
+                     "url": "https://vk.com/doc1577634_437290034?hash=4f3a60ddb9433e6593&dl=38954a0700077bf4c1"
+                  }, {
+                     "date_added": "13243252974027065",
+                     "guid": "c044ab16-ea8a-4cd5-bae3-fc9c1edb35e8",
+                     "id": "1964",
+                     "name": "krita sketching - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=krita+sketching&sxsrf=ALeKk01jZtkNCddrhU1qYvpr_DQugFzmkQ:1598624741565&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiGheaejb7rAhVsoosKHaLpBDcQ_AUoAnoECBAQBA&biw=1914&bih=880"
+                  }, {
+                     "date_added": "13243252974028256",
+                     "guid": "e085afcf-c513-4326-bfb1-c1756513b9ab",
+                     "id": "1965",
+                     "name": "Quick sketch and inking in Krita - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=x0qNo4uBI1w"
+                  }, {
+                     "date_added": "13243252974029417",
+                     "guid": "2ea47c48-b6e6-45a0-a359-8c4e6f43d369",
+                     "id": "1966",
+                     "name": "Krita Sketching - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=QcomeP8KI1g"
+                  }, {
+                     "date_added": "13243252974030575",
+                     "guid": "43d301ce-faa9-4cb1-b612-07e99f0ab172",
+                     "id": "1967",
+                     "name": "Improve your Sketches with Krita - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=HtBzzXulIr0"
+                  }, {
+                     "date_added": "13243252974031741",
+                     "guid": "2c1ac554-1cfb-4160-b7ed-88729ca1e08c",
+                     "id": "1968",
+                     "name": "A few TIPS to get you started with KRITA! (Best Painting Program!?) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=u8az5DijlnY"
+                  }, {
+                     "date_added": "13243252974032889",
+                     "guid": "26acb5ec-8bfb-40c5-966b-4a789a9c126b",
+                     "id": "1969",
+                     "name": "Fantasy Landscape Digital Painting Timeplase / Speed Art - with Commentary - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=jymYVtdx0S4"
+                  }, {
+                     "date_added": "13243252974034091",
+                     "guid": "59b8dfcd-0830-443f-a1a6-67ed4cb45ff6",
+                     "id": "1970",
+                     "name": "krita vs sai - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=krita+vs+sai&sxsrf=ALeKk02LUdvrlG6nVkjORCWUBoe2x-Qm3w:1598625304534&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjsip-rj77rAhXjAxAIHftVBkYQ_AUoAnoECBQQBA&biw=1914&bih=953"
+                  }, {
+                     "date_added": "13243252974035282",
+                     "guid": "74606199-517c-47d1-bd47-f4277d57cbf8",
+                     "id": "1971",
+                     "name": "KRITA 3.2 & PAINTER 2018 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=AEFtm6zUF6U"
+                  }, {
+                     "date_added": "13243252974036447",
+                     "guid": "5b29943d-aaa5-42b5-89d3-42f8c7eb97b5",
+                     "id": "1972",
+                     "name": "How To Use Precise Perspective In a Drawing? - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=BY4AlrbpNv4"
+                  }, {
+                     "date_added": "13243252974037618",
+                     "guid": "ea43dc27-aa54-479d-b922-8883c3873f99",
+                     "id": "1973",
+                     "name": "My Review of Corel Painter 2021 (Hi @Sinix Design!) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=RqrNCWF-ldI&t=854s"
+                  }, {
+                     "date_added": "13243252974038873",
+                     "guid": "25ee8878-1431-468e-9c21-6c7fb9dfa4e3",
+                     "id": "1974",
+                     "name": "corel painter vs krita - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?sxsrf=ALeKk03HhNWt7qpzOF00rbOPnylLBeHr2g%3A1598626024041&ei=6BhJX4mBAubhrgS7qZmICQ&q=corel+painter+vs+krita&oq=Corel+Painter+vs+kr&gs_lcp=CgZwc3ktYWIQAxgAMgcIABAUEIcCMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECAAQRzoECAAQQ1CVmxBY0qMQYJKqEGgAcAF4AIABUIgB-AKSAQE2mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab"
+                  }, {
+                     "date_added": "13243252974040050",
+                     "guid": "0e33054b-9ee3-4243-b94a-66ca408418dd",
+                     "id": "1975",
+                     "name": "KRITA 3.2 & PAINTER 2018 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=AEFtm6zUF6U"
+                  }, {
+                     "date_added": "13243252974041125",
+                     "guid": "e8dd1557-58e5-4a10-9046-7de605d61c1c",
+                     "id": "1976",
+                     "name": "Krita vs Painter | G2",
+                     "type": "url",
+                     "url": "https://www.g2.com/compare/krita-vs-painter?__cf_chl_jschl_tk__=b638f17749393a3950df7e36e46e38f88701ac28-1598626302-0-AcAcsXIBOlnhnHq6zm3WSvaGr8rX6qqBTlNRZCoSik6E6oSpenXWZWLSxWB9YKInswmp9S315K3xPiKnbiHBISP8Rav_yG2hq9G_eydgLXNiDvnRiJWPnNzzfczdsGYcB2LviZSP5PeoxGtMRdPSVgQYmw3p37fK-Xq4bQr2MELWxQTdiACbNQTGWIa3haT5YyFXznewyxzuZojJuupTKpJD-ABPNrqIvNAMxoEs-YKq3ONhMypg8K6SJkF4gFQp3eTxA4Bz_tfS9lJypophuUveKWeCkLgJwZtxyCIXSaAg"
+                  }, {
+                     "date_added": "13243252974042376",
+                     "guid": "4d3ade15-64ef-4f19-9dc3-8008e9e14593",
+                     "id": "1977",
+                     "name": "krita dynamic brush too - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=krita+dynamic+brush+too&oq=krita+dynamic+brush+too&aqs=chrome..69i57.4568j0j1&sourceid=chrome&ie=UTF-8"
+                  }, {
+                     "date_added": "13243252974043551",
+                     "guid": "34ee3875-3df0-446a-9f37-24340bf3ef46",
+                     "id": "1978",
+                     "name": "Line-art tips with Krita 2.9 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=xvQ5l0edsq4"
+                  }, {
+                     "date_added": "13243252974044716",
+                     "guid": "ec662f91-94c0-465a-8ac2-2ac990a65e85",
+                     "id": "1979",
+                     "name": "How to color your lineart in Krita - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=_GXyUsjjAdg"
+                  }, {
+                     "date_added": "13243252974045876",
+                     "guid": "f8595a8c-3191-4c39-af22-c08361480608",
+                     "id": "1980",
+                     "name": "Shading tutorial for comics using Krita - by David Revoy - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=7FRyAiLIGww"
+                  }, {
+                     "date_added": "13243252974047041",
+                     "guid": "dd12f4d9-5556-4a99-bf37-31efe1e7e0ce",
+                     "id": "1981",
+                     "name": "Krita tutorial: Understanding Krita's blending modes - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=3korE3Xn4eg"
+                  }, {
+                     "date_added": "13243252974048211",
+                     "guid": "49feee0e-0619-4c5e-b77d-9a3bae3d5634",
+                     "id": "1982",
+                     "name": "Painting with Blending-modes - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=AybFWViT-3Q"
+                  }, {
+                     "date_added": "13243252974049369",
+                     "guid": "7ec10287-4b42-4d1c-b792-970c3185fc14",
+                     "id": "1983",
+                     "name": "Imgur: The magic of the Internet",
+                     "type": "url",
+                     "url": "https://imgur.com/mIdufBx"
+                  }, {
+                     "date_added": "13243252974050520",
+                     "guid": "6fea2356-0edc-47e2-8899-f2466ec5e5e9",
+                     "id": "1984",
+                     "name": "Krita Lineart + Cell Shade tutorial - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=T1Qn23OTWHc"
+                  }, {
+                     "date_added": "13243252974051687",
+                     "guid": "1b913738-ead1-4b60-96ef-ba75794097be",
+                     "id": "1985",
+                     "name": "Tutorial: Coloring with \"Colorize-mask\" in Krita - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=HQdx6H9BIGs"
+                  }, {
+                     "date_added": "13243252974052850",
+                     "guid": "487c2ebf-594c-439e-b56e-30de1eecaa5e",
+                     "id": "1986",
+                     "name": "⚠️ 10 Digital Art Mistakes we probably ALL DID or STILL DO! - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=gQIxdrNrG30"
+                  }, {
+                     "date_added": "13243252974054020",
+                     "guid": "62483b83-f7e0-4ec2-b549-326fbab51d27",
+                     "id": "1987",
+                     "name": "Speedpainting Dragons - Livestream Krita Workshop - Libre Graphic Meeting 2020 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=gKXl0nZ9kPc"
+                  }, {
+                     "date_added": "13243252974055284",
+                     "guid": "a3d2545b-7bc2-4633-8140-bb9c09a8fe6d",
+                     "id": "1988",
+                     "name": "My favorites Krita Keyboard Shortcuts - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=tdQpRGdkxpU"
+                  }, {
+                     "date_added": "13243252974056375",
+                     "guid": "d52ea902-bb02-48fc-85c2-9dbdc66d7538",
+                     "id": "1989",
+                     "name": "Digital Lineart Tips & Tricks - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=2jqtxKmgSXA"
+                  }, {
+                     "date_added": "13243252974057522",
+                     "guid": "4984d1b6-585a-454b-abc2-7fd9329ea1b5",
+                     "id": "1990",
+                     "name": "Anatomy Quick Tips: Hair - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=88khFjZwkl0"
+                  }, {
+                     "date_added": "13243252974058697",
+                     "guid": "abf3067f-dd3c-4008-a18a-b6a9c992b8dc",
+                     "id": "1991",
+                     "name": "INSTAGRAM ART: DON'T YOU EVER DRAW HANDS LIKE SINIX! EVER! - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=H-AvqQtRH8g"
+                  }, {
+                     "date_added": "13243252974059785",
+                     "guid": "3c12264b-05b4-4d10-99d5-b0a5d67a3295",
+                     "id": "1992",
+                     "name": "Clean Line Art! Digital Inking Tips - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=NBE-RTFkXDk"
+                  }, {
+                     "date_added": "13243252974060976",
+                     "guid": "d07b2e46-fda6-48bd-935e-515505b7da6f",
+                     "id": "1993",
+                     "name": "blender sculpting - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=blender+sculpting&oq=blender+sculpting&aqs=chrome..69i57.4064j0j1&sourceid=chrome&ie=UTF-8"
+                  }, {
+                     "date_added": "13243252974062140",
+                     "guid": "d4db668e-bf97-44b1-99e3-79bb1c3f488c",
+                     "id": "1994",
+                     "name": "krita layer system - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=krita+layer+system&sxsrf=ALeKk00U6FUePXHBLGrNy-8GYtlAJ6SKzA:1598636613776&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiYt_S7ub7rAhVkpYsKHazrAywQ_AUoAnoECA0QBA&biw=1914&bih=953"
+                  }, {
+                     "date_added": "13243252974063315",
+                     "guid": "7446cdcd-68f1-47d0-8f33-68e900280666",
+                     "id": "1995",
+                     "name": "Bit Depth — Krita Manual version 4.3.0",
+                     "type": "url",
+                     "url": "https://docs.krita.org/en/general_concepts/colors/bit_depth.html"
+                  }, {
+                     "date_added": "13243252974064479",
+                     "guid": "67abb7aa-d0c6-47ab-9863-d0bed3a1b4eb",
+                     "id": "1996",
+                     "name": "triangle color pallet vs square color pallet - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?biw=1914&bih=953&tbm=vid&sxsrf=ALeKk01zQA8O3w9PONY-U32D3V8QLSYYtQ%3A1598638070349&ei=9kdJX8f_FJSWjgaB9YLIDw&q=triangle+color+pallet+vs+square+color+pallet&oq=triangle+color+pallet+vs+square+color+pallet&gs_l=psy-ab.3...3697.9077.0.9265.13.13.0.0.0.0.87.886.13.13.0....0...1c.1.64.psy-ab..1.1.79...33i10k1.0.TBYVrbYG1Yo"
+                  }, {
+                     "date_added": "13243252974065702",
+                     "guid": "4a696de4-9c54-4a7c-847f-7d10df364c2c",
+                     "id": "1997",
+                     "name": "Digital Art for Beginners: How to Get Started Quickly - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=hnZfnoVFpK8&list=PLo_kbikcLfN_P93T3PZZZx9bs_GsNTPEa"
+                  }, {
+                     "date_added": "13243252974066880",
+                     "guid": "61223d7a-2593-4492-a2d0-de98c3f67864",
+                     "id": "1998",
+                     "name": "HSV Color Theory For Digital Artists (Part 1/2) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=QA2dLTOJfJk&list=PLo_kbikcLfN8V1zuNO3VbMOjgVZbgTUcD&index=2"
+                  }, {
+                     "date_added": "13243252974068062",
+                     "guid": "4a3aabdb-ca66-49a2-bdfb-240103d7a3a0",
+                     "id": "1999",
+                     "name": "Color & Value in Digital Art - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/playlist?list=PLo_kbikcLfN8V1zuNO3VbMOjgVZbgTUcD"
+                  }, {
+                     "date_added": "13243252974069227",
+                     "guid": "db308e93-70bf-4e4d-8dc4-dd604bd86faf",
+                     "id": "2000",
+                     "name": "Digital Art for Beginners: How to Get Started Quickly - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=hnZfnoVFpK8"
+                  }, {
+                     "date_added": "13243252974070401",
+                     "guid": "736860ae-f78d-485d-a8da-000eae7af86e",
+                     "id": "2001",
+                     "name": "Use the Color and Swatches panels in Photoshop",
+                     "type": "url",
+                     "url": "https://helpx.adobe.com/photoshop/using/choosing-colors-color-swatches-panels.html"
+                  }, {
+                     "date_added": "13243252974071569",
+                     "guid": "3d3b70a4-98b2-4312-aa78-5e7e796b1670",
+                     "id": "2002",
+                     "name": "Introduction to Sculpting in Blender 2.8 - Sculpting Essentials - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=A-Wq8K8icpQ"
+                  }, {
+                     "date_added": "13243252974072818",
+                     "guid": "0962fa25-b520-40c6-8d26-9a4f2fec00a0",
+                     "id": "2003",
+                     "name": "Sculpting | Beginner Follow Along Tutorial | Easy | Blender 2.8 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=lKY2FIy60nc"
+                  }, {
+                     "date_added": "13243252974073901",
+                     "guid": "3c9c8f2d-51c9-42bd-8ba7-82372e2b3a73",
+                     "id": "2004",
+                     "name": "Sculpting | Beginner Follow Along Tutorial | Easy | Blender 2.8 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=lKY2FIy60nc"
+                  }, {
+                     "date_added": "13243252974075112",
+                     "guid": "cc958327-359b-43fd-8f2c-a53b6ebdd69d",
+                     "id": "2005",
+                     "name": "Part 5, Level 1: Sculpting - Blender Beginner Tutorial - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=6OTX3ZdYvEA"
+                  }, {
+                     "date_added": "13243252974075963",
+                     "guid": "9a9db0db-f774-41ab-94e5-fc9b7edf69e3",
+                     "id": "2006",
+                     "name": "Part 7, Level 1: Materials - Blender Beginner Tutorial - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=5lr8QnR5WWU&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&index=8"
+                  }, {
+                     "date_added": "13243252974076777",
+                     "guid": "08b7a9f0-2fd5-49c4-8b80-3ece05fd4185",
+                     "id": "2007",
+                     "name": "Lighting Mastery Course - Intro - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Ys4793edotw&list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK&index=1"
+                  }, {
+                     "date_added": "13243252974077597",
+                     "guid": "3ef0db44-af5d-49a7-9c5a-56fe28f59ee9",
+                     "id": "2008",
+                     "name": "Primitives — Blender Manual",
+                     "type": "url",
+                     "url": "https://docs.blender.org/manual/en/latest/modeling/meshes/primitives.html#:~:text=Blender%20comes%20with%20a%20number,Mode%20at%20the%203D%20cursor.&text=You%20can%20make%20a%20planar,Plane%2C%20Circle%20and%20Grid)."
+                  }, {
+                     "date_added": "13243252974078425",
+                     "guid": "6c21058d-e56d-4396-90e9-9a1ab35c458e",
+                     "id": "2009",
+                     "name": "blender sculpting move - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=blender+sculpting+move&oq=blender+sculpting+move+&aqs=chrome..69i57.13193j0j1&sourceid=chrome&ie=UTF-8"
+                  }, {
+                     "date_added": "13243252974079122",
+                     "guid": "16e60640-8be1-4ee7-b587-4f819ae54ade",
+                     "id": "2010",
+                     "name": "Resize Parts Of Your Sculpt Easily In Blender Sculpt Mode - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=MixfsYOrSk8"
+                  }, {
+                     "date_added": "13243252974079771",
+                     "guid": "525b33fc-7136-4c9b-b00e-21c60ccc6ee1",
+                     "id": "2011",
+                     "name": "youtube-dl full - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=youtube-dl+full&oq=youtube-dl+full&aqs=chrome..69i57.12992j0j1&sourceid=chrome&ie=UTF-8"
+                  }, {
+                     "date_added": "13243252974080421",
+                     "guid": "e5292835-b022-4741-b9fa-f9bb41f8cc2f",
+                     "id": "2012",
+                     "name": "youtube-dl/README.md at master · ytdl-org/youtube-dl",
+                     "type": "url",
+                     "url": "https://github.com/ytdl-org/youtube-dl/blob/master/README.md#description"
+                  }, {
+                     "date_added": "13243252974081074",
+                     "guid": "f8ff33d6-cc1e-4ff5-80be-7a77e1408dde",
+                     "id": "2013",
+                     "name": "blender hide masked area - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?sxsrf=ALeKk01E0GGW-GzdV_yQylZDaXqKv6hRnQ%3A1598714442220&ei=SnJKX-aLDeWsrgT52pagCQ&q=blender+hide+masked+area&oq=blender+hide+masked+area&gs_lcp=CgZwc3ktYWIQAzICCAA6BAgAEEc6BQgAEJECOgcIABAUEIcCOgYIABAWEB5Qnf9lWNKbZmDTnGZoAHABeAGAAf0BiAGeDJIBBjEyLjEuM5gBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjm2LOz28DrAhVllosKHXmtBZQQ4dUDCA0&uact=5"
+                  }, {
+                     "date_added": "13243252974081746",
+                     "guid": "d1a6f2e1-c64d-486c-805c-62891867eabf",
+                     "id": "2014",
+                     "name": "Sculpt Mode - Hiding Polygons - Support / Modeling - Blender Artists Community",
+                     "type": "url",
+                     "url": "https://blenderartists.org/t/sculpt-mode-hiding-polygons/1123501/5"
+                  }, {
+                     "date_added": "13243252974082395",
+                     "guid": "ff6984a6-9d77-4371-8ebb-064694cdf20e",
+                     "id": "2015",
+                     "name": "Hiding & Masking — Blender Manual",
+                     "type": "url",
+                     "url": "https://docs.blender.org/manual/en/latest/sculpt_paint/sculpting/hide_mask.html"
+                  }, {
+                     "date_added": "13243252974083042",
+                     "guid": "f9a534c2-363f-4620-9897-45cab5921219",
+                     "id": "2016",
+                     "name": "sculpting clothes - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?biw=1914&bih=953&tbm=vid&sxsrf=ALeKk00o16w6ojYOufMlsW8SdEjAhftWCg%3A1598725799683&ei=p55KX_KkKeLIrgSKhYywCg&q=+sculpting+clothes&oq=+sculpting+clothes&gs_l=psy-ab.3..0l5j0i7i30k1l3j0i30k1l2.161976.161976.0.162258.1.1.0.0.0.0.84.84.1.1.0....0...1c.1.64.psy-ab..0.1.83....0.mLCQVaTfYAk"
+                  }, {
+                     "date_added": "13243252974083709",
+                     "guid": "b9b78850-fa5b-46f2-a891-2bb408fd390a",
+                     "id": "2017",
+                     "name": "Sculpting Clothes Tutorial - Zbrush 4R7 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=UhVXU_mhbZo"
+                  }, {
+                     "date_added": "13243252974084358",
+                     "guid": "b1e977dc-2923-4b56-9a80-c622541de7ed",
+                     "id": "2018",
+                     "name": "Sculpture Learning: Sculpting clothes - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=S0uq16Da8V8"
+                  }, {
+                     "date_added": "13243252974085003",
+                     "guid": "22e7b756-f9c2-4f0a-9359-c9c65dc441c5",
+                     "id": "2019",
+                     "name": "Blender clothing process - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=9zNAATDadJc"
+                  }, {
+                     "date_added": "13243252974085649",
+                     "guid": "3c6103d6-23f9-484b-b8ef-6fac0da89113",
+                     "id": "2020",
+                     "name": "Sculpting cloth in Blender. The easy way - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=0QEjk6jFScI"
+                  }, {
+                     "date_added": "13243252974086293",
+                     "guid": "1c9c4a7b-d4f8-4f09-b526-e7bed9d3e801",
+                     "id": "2021",
+                     "name": "Blender Character Creation: Sculpting the Clothes - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=UAHNnMBenIE"
+                  }, {
+                     "date_added": "13243252974086938",
+                     "guid": "04bf170e-e790-46eb-afb7-33c9a11c2961",
+                     "id": "2022",
+                     "name": "Cloth — Blender Manual",
+                     "type": "url",
+                     "url": "https://docs.blender.org/manual/en/latest/sculpt_paint/sculpting/tools/cloth.html"
+                  }, {
+                     "date_added": "13243252974087585",
+                     "guid": "861661be-876f-4a6f-9efb-3f1b19134b6f",
+                     "id": "2023",
+                     "name": "krita rotate color picker - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=krita+rotate+color+picker&oq=krita+rotate+color+picker&aqs=chrome..69i57.7681j0j1&sourceid=chrome&ie=UTF-8"
+                  }, {
+                     "date_added": "13243252974088243",
+                     "guid": "131dd074-d625-476b-a0e5-b80ada9d9ddb",
+                     "id": "2024",
+                     "name": "blender quick color - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?sxsrf=ALeKk00wUzsAyfH_LHtpGrqdKZPMNTjssQ%3A1598727710171&ei=HqZKX-H8CaarrgTV47_4BQ&q=blender+quick+color&oq=blender+quick+color&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgIIADoICAAQFhAKEB46CAgAEA0QBRAeUJz_J1j6lShg-58oaABwAXgAgAG0AYgBigeSAQQxMC4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjhg4fqjMHrAhWmlYsKHdXxD18Q4dUDCA0&uact=5"
+                  }, {
+                     "date_added": "13243252974089022",
+                     "guid": "1b54842d-3966-4f6e-a206-fd3fb5d4539e",
+                     "id": "2025",
+                     "name": "modeling - How to cut and paste part of a mesh to another mesh? - Blender Stack Exchange",
+                     "type": "url",
+                     "url": "https://blender.stackexchange.com/questions/28466/how-to-cut-and-paste-part-of-a-mesh-to-another-mesh"
+                  }, {
+                     "date_added": "13243252974089687",
+                     "guid": "adab186d-0864-43dc-bfd2-4e9f3e0f9611",
+                     "id": "2026",
+                     "name": "Object Origin — Blender Manual",
+                     "type": "url",
+                     "url": "https://docs.blender.org/manual/en/latest/scene_layout/object/origin.html"
+                  }, {
+                     "date_added": "13243252974090340",
+                     "guid": "61aa8c9d-d184-478c-976e-a3829c95d930",
+                     "id": "2027",
+                     "name": "Welcome to the Krita 4.3 Manual! — Krita Manual 4.3.0 documentation",
+                     "type": "url",
+                     "url": "https://docs.krita.org/en/"
+                  } ],
+                  "date_added": "13243252973996174",
+                  "date_modified": "13243252974090340",
+                  "guid": "5c8a4d40-4312-4e17-89e7-565ecb9a0937",
+                  "id": "1938",
+                  "name": "30_08_2020",
+                  "type": "folder"
+               } ],
+               "date_added": "13243086894992399",
+               "date_modified": "13243253186602916",
+               "guid": "4dd036a8-185f-46b1-b95e-e7c3d76e01f0",
+               "id": "1906",
+               "name": "Art",
+               "type": "folder"
+            }, {
                "date_added": "13050848308000000",
                "guid": "ae3423f3-fd39-48f9-ba69-ff96e511d92e",
                "id": "679",
@@ -5259,7 +6826,7 @@
                "url": "https://www.pngfuel.com/free-png/afkru/download"
             } ],
             "date_added": "13241556756292472",
-            "date_modified": "0",
+            "date_modified": "13243202009339765",
             "guid": "b0eaf7ff-f868-4ba5-9dab-5d80975979af",
             "id": "334",
             "name": "Misc",
@@ -10544,9 +12111,23 @@
                   "name": "Writing cache-friendly code - Stardog",
                   "type": "url",
                   "url": "https://www.stardog.com/blog/writing-cache-friendly-code/"
+               }, {
+                  "date_added": "13242992648191676",
+                  "guid": "918f718d-4c8f-4a96-8cd0-b865095e4173",
+                  "id": "1901",
+                  "name": "Object-Oriented Programming is Bad - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=QM1iUe6IofM"
+               }, {
+                  "date_added": "13243003388336249",
+                  "guid": "ab1610dd-8765-4c9a-9966-9510fcf6fb77",
+                  "id": "1902",
+                  "name": "Object-Oriented Programming is Embarrassing: 4 Short Examples - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=IRTfhkiAqPw"
                } ],
                "date_added": "13241556756350330",
-               "date_modified": "0",
+               "date_modified": "13243076510567421",
                "guid": "aca79d75-9d21-4da4-abd1-5448699c604a",
                "id": "1344",
                "name": "DoD",
@@ -11659,9 +13240,23 @@
                   "name": "Make `set mouse=` or `set mouse=c` the default · Issue #5938 · neovim/neovim",
                   "type": "url",
                   "url": "https://github.com/neovim/neovim/issues/5938"
+               }, {
+                  "date_added": "13242926314628991",
+                  "guid": "d5846689-a3f4-4459-b673-9ab7b07faf1f",
+                  "id": "1898",
+                  "name": "key bindings - How to remap : to ; in Evil Mode - Emacs Stack Exchange",
+                  "type": "url",
+                  "url": "https://emacs.stackexchange.com/questions/26450/how-to-remap-to-in-evil-mode"
+               }, {
+                  "date_added": "13242927700267159",
+                  "guid": "bba08f9f-e5a3-4eca-8bca-3f96c3fd8257",
+                  "id": "1899",
+                  "name": "evil-guide - EMACS-DOCUMENT",
+                  "type": "url",
+                  "url": "http://blog.lujun9972.win/emacs-document/blog/2019/03/14/evil-guide/"
                } ],
                "date_added": "13241556756365062",
-               "date_modified": "13242427524489027",
+               "date_modified": "13242992648191676",
                "guid": "6e38bc43-560f-4176-a570-cf79dbfbed66",
                "id": "1623",
                "name": "Emacs",
@@ -11760,9 +13355,23 @@
                   "name": "Bash, Shell and UNIX Chaddery - YouTube",
                   "type": "url",
                   "url": "https://www.youtube.com/playlist?list=PL-p5XmQHB_JREOtBfLdKSswBGYyXwXMUy"
+               }, {
+                  "date_added": "13242903836212835",
+                  "guid": "e6f81d66-e00f-4d44-a65e-370abff3f69d",
+                  "id": "1805",
+                  "name": "Bash commands to not look dumb at the Interview... - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Gl4DKyicKKg"
+               }, {
+                  "date_added": "13243076510567421",
+                  "guid": "c7b4442b-0284-4a0a-aa8c-e0f8ef74fbea",
+                  "id": "1904",
+                  "name": "Linux fork() Introduction - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=9seb8hddeK4"
                } ],
                "date_added": "13242487469012733",
-               "date_modified": "13242605886085527",
+               "date_modified": "13243086871641665",
                "guid": "7191dde7-6de3-4002-9e4b-aaeb601c11f7",
                "id": "1792",
                "name": "Shell",
@@ -12468,9 +14077,703 @@
                "name": "VS Code shortcuts to boost your productivity | Thomlom",
                "type": "url",
                "url": "https://thomlom.dev/vscode-shortcuts-boost-productivity/"
+            }, {
+               "children": [ {
+                  "date_added": "13243253232373315",
+                  "guid": "5e96e582-ac26-4519-a1cb-f6c49f96b028",
+                  "id": "2030",
+                  "name": "All Notes - Evernote",
+                  "type": "url",
+                  "url": "https://www.evernote.com/client/web?login=true#?an=true&n=b3233b66-7998-8070-9860-ba44c24d7139&"
+               }, {
+                  "date_added": "13243253232373982",
+                  "guid": "a7a4b23e-e703-4ff4-8f01-c496d5619031",
+                  "id": "2031",
+                  "name": "Some bashrc recommendations and what I use - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=_UrDsbs0-OE"
+               }, {
+                  "date_added": "13243253232374737",
+                  "guid": "92c09dff-9bdc-409f-bb0d-bc5d531ec01d",
+                  "id": "2032",
+                  "name": "Branchless Programming: Why \"If\" is Sloowww... and what we can do about it! - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=bVJ-mWWL7cE"
+               }, {
+                  "date_added": "13243253232375510",
+                  "guid": "12528213-0e83-4e1c-93c6-e916b7bc3d42",
+                  "id": "2033",
+                  "name": "Diving Into My Linux & Computing Journey: Where Will It Take Me - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=RSrAj8vqw4Y"
+               }, {
+                  "date_added": "13243253232376136",
+                  "guid": "168b31f1-1c57-4bfb-aa77-3ef6606ace60",
+                  "id": "2034",
+                  "name": "Mike Acton | Data Oriented Programming",
+                  "type": "url",
+                  "url": "https://dataorientedprogramming.wordpress.com/tag/mike-acton/"
+               }, {
+                  "date_added": "13243253232376742",
+                  "guid": "0f2f9a7b-191a-42c9-9b31-1a51bfd69dcc",
+                  "id": "2035",
+                  "name": "Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP) – Games from Within",
+                  "type": "url",
+                  "url": "http://gamesfromwithin.com/data-oriented-design"
+               }, {
+                  "date_added": "13243253232377363",
+                  "guid": "c70d1492-5eb4-4d41-bcba-bccc43ff1ac3",
+                  "id": "2036",
+                  "name": "CppCon 2014: Mike Acton \"Data-Oriented Design and C++\" - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=rX0ItVEVjHc"
+               }, {
+                  "date_added": "13243253232377975",
+                  "guid": "ab6afa60-b225-4aa1-9a8d-80a8a40566c1",
+                  "id": "2037",
+                  "name": "Semantic Compression",
+                  "type": "url",
+                  "url": "https://caseymuratori.com/blog_0015"
+               }, {
+                  "date_added": "13243253232378574",
+                  "guid": "6f77d7d6-3ed3-430e-ad1c-cca97d72a78c",
+                  "id": "2038",
+                  "name": "arch aur - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=arch+aur&sxsrf=ALeKk00o2ygRkXHii3OOWivZZXKClXlprw:1597156068145&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjlqd6ArpPrAhXps4sKHZPVCt0Q_AUoAnoECA0QBA&biw=1910&bih=944"
+               }, {
+                  "date_added": "13243253232379201",
+                  "guid": "a041d40a-51c7-42c7-94dd-81f933ac663d",
+                  "id": "2039",
+                  "name": "TUI Commands (Debugging with GDB)",
+                  "type": "url",
+                  "url": "https://sourceware.org/gdb/current/onlinedocs/gdb/TUI-Commands.html"
+               }, {
+                  "date_added": "13243253232379811",
+                  "guid": "eb5ed65c-2468-4821-a26d-6328f2ecc0ed",
+                  "id": "2040",
+                  "name": "Debugging with GDB: Memory",
+                  "type": "url",
+                  "url": "https://sourceware.org/gdb/onlinedocs/gdb/Memory.html"
+               }, {
+                  "date_added": "13243253232380408",
+                  "guid": "547970dd-b5ad-484b-b84d-cce178f646b0",
+                  "id": "2041",
+                  "name": "gdb set flavor - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=gdb+set+flavor&oq=gdb+set+flavor&aqs=chrome..69i57j69i65.18171j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232381025",
+                  "guid": "420e4032-c434-4de9-856a-92c6123a307b",
+                  "id": "2042",
+                  "name": "Handmade Hero  —  Watch",
+                  "type": "url",
+                  "url": "https://handmadehero.org/watch"
+               }, {
+                  "date_added": "13243253232381624",
+                  "guid": "8ce18ccc-51ae-4de3-babf-f318dc231003",
+                  "id": "2043",
+                  "name": "jai language - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=jai+language&sxsrf=ALeKk02Sn5QazHt9eHxO_4AMWzCewOCRtw:1597178235794&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiHoYzLgJTrAhUPt4sKHa_wBAEQ_AUoA3oECAwQBQ&biw=1906&bih=940"
+               }, {
+                  "date_added": "13243253232382246",
+                  "guid": "88933d3b-5e5c-408a-b426-82f56efd166c",
+                  "id": "2044",
+                  "name": "The Joy of Programming in Jai - Part 1: Hello World - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=i1vbvikDiI8"
+               }, {
+                  "date_added": "13243253232382859",
+                  "guid": "974e222e-3b2f-45d2-8b02-fbb36041b1cd",
+                  "id": "2045",
+                  "name": "llvm - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=llvm&sxsrf=ALeKk01aYtv3uPUk_oiShWYya3iJW9EjqA:1597178370313&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjl2Z6LgZTrAhVI_SoKHcwqBxQQ_AUoAnoECBUQBA&biw=1906&bih=940"
+               }, {
+                  "date_added": "13243253232383471",
+                  "guid": "6eb37340-a2e4-4edc-80c7-d82cf88a190b",
+                  "id": "2046",
+                  "name": "Introduction to LLVM Building simple program analysis tools and instrumentation - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=VKIv_Bkp4pk"
+               }, {
+                  "date_added": "13243253232384083",
+                  "guid": "f50d6a1d-d2aa-4b27-8033-9d8cf72f122b",
+                  "id": "2047",
+                  "name": "mike acton unity - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=mike+acton+unity&oq=mike+acton+unity&aqs=chrome..69i57.40310j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232384703",
+                  "guid": "f5f84573-e47f-4760-8d30-229f17aa4864",
+                  "id": "2048",
+                  "name": "Unity at GDC - A Data Oriented Approach to Using Component Systems - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=p65Yt20pw0g"
+               }, {
+                  "date_added": "13243253232385307",
+                  "guid": "620949b1-8c09-44c8-b89e-f32cb96f20c2",
+                  "id": "2049",
+                  "name": "vim-easymotion/easymotion.txt at master · easymotion/vim-easymotion",
+                  "type": "url",
+                  "url": "https://github.com/easymotion/vim-easymotion/blob/master/doc/easymotion.txt"
+               }, {
+                  "date_added": "13243253232385913",
+                  "guid": "a93af990-aaab-4853-ba8a-68002149013d",
+                  "id": "2050",
+                  "name": "[Official] Celeste Original Soundtrack - 03 - Resurrections - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=1rwAvUvvQzQ&list=PL1eFjFaZ9VkyDcVnvJyEC3P8tCFpZpRoU&index=3"
+               }, {
+                  "date_added": "13243253232386532",
+                  "guid": "9845b945-19f6-4979-9010-1076653201d2",
+                  "id": "2051",
+                  "name": "Luke Smith - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/LukeSmithxyz/search?query=lf"
+               }, {
+                  "date_added": "13243253232387135",
+                  "guid": "ee290064-5f76-43a3-b4e2-46b60d23c0fc",
+                  "id": "2052",
+                  "name": "NNN: Is This Terminal File Manager As Good As People Say? - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=KuJHo-aO_FA"
+               }, {
+                  "date_added": "13243253232387751",
+                  "guid": "c4086fb9-c173-4581-b06c-7fe86903fae4",
+                  "id": "2053",
+                  "name": "LukeSmithxyz/dwmblocks: My status bar: my build of the modular dwmblocks",
+                  "type": "url",
+                  "url": "https://github.com/lukesmithxyz/dwmblocks"
+               }, {
+                  "date_added": "13243253232388463",
+                  "guid": "88160f77-eae9-4994-a35f-9ebf134e103c",
+                  "id": "2054",
+                  "name": "LukeSmithxyz/voidrice: My dotfiles (deployed by LARBS)",
+                  "type": "url",
+                  "url": "https://github.com/LukeSmithxyz/voidrice"
+               }, {
+                  "date_added": "13243253232389085",
+                  "guid": "f1db0c1e-40d7-483f-b920-cf8e289b76f7",
+                  "id": "2055",
+                  "name": "How to setup DWMBlocks - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=aA0je0lmKNg"
+               }, {
+                  "date_added": "13243253232389691",
+                  "guid": "8b7ecddb-ca3a-4e6a-877a-f7083194b3a8",
+                  "id": "2056",
+                  "name": "Recently Left i3 For Dwm? If so, keep moving...to Xmonad! - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=TTME951CxNc"
+               }, {
+                  "date_added": "13243253232390310",
+                  "guid": "34add7ad-da70-4893-882c-fddc2f05ebbf",
+                  "id": "2057",
+                  "name": "Упссс...",
+                  "type": "url",
+                  "url": "https://wooordhunt.ru/ooops/wordnotfound?word=setuped"
+               }, {
+                  "date_added": "13243253232390920",
+                  "guid": "2d95f850-6ffd-4f82-b0cd-0ffb4213d004",
+                  "id": "2058",
+                  "name": "GeorgeFilipkin/pulsemixer: CLI and curses mixer for PulseAudio",
+                  "type": "url",
+                  "url": "https://github.com/GeorgeFilipkin/pulsemixer"
+               }, {
+                  "date_added": "13243253232391529",
+                  "guid": "c878e9e6-ad0d-45f4-8d3f-26e99d0771fa",
+                  "id": "2059",
+                  "name": "Relaxing NieR: Automata Music with Rain (Remaster: Heavier Rain) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=RfINPtv9bCo"
+               }, {
+                  "date_added": "13243253232392141",
+                  "guid": "77925ab6-71ed-4d72-b832-4adf5b3ce640",
+                  "id": "2060",
+                  "name": "st terminal parallelism - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?sxsrf=ALeKk01XQ-jKMGkk35huEiWnVK8JAtqKrQ%3A1597257226594&ei=CjY0X5fQI-OjrgTej7OYDQ&q=st+terminal+parallelism&oq=st+terminal+parallelism&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCMQJzoGCAAQCBAeUJI1WIlIYPFJaAFwAXgAgAFPiAGiBZIBAjEwmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiX_evsppbrAhXjkYsKHd7HDNMQ4dUDCAw&uact=5"
+               }, {
+                  "date_added": "13243253232392778",
+                  "guid": "71a6d3a4-6aca-4064-ad4d-0d795decc472",
+                  "id": "2061",
+                  "name": "st - simple terminal | suckless.org software that sucks less",
+                  "type": "url",
+                  "url": "https://st.suckless.org/"
+               }, {
+                  "date_added": "13243253232393382",
+                  "guid": "8f6ce8f7-a60d-4c6a-953d-d933c5544d37",
+                  "id": "2062",
+                  "name": "where is python modules - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=where+is+python+modules&oq=where+is+python+modules&aqs=chrome..69i57.14561j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232393998",
+                  "guid": "4e45af80-c5b6-4d63-86d5-d1acc714ad7b",
+                  "id": "2063",
+                  "name": "directory - Where are the python modules stored? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/2927993/where-are-the-python-modules-stored/2928020"
+               }, {
+                  "date_added": "13243253232394612",
+                  "guid": "a89cb5cf-85bd-41a1-956c-b69aada97e52",
+                  "id": "2064",
+                  "name": "arch control volume - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?sxsrf=ALeKk02kU8k-9tDZj2d1Emr3OI4bCqI8Ig%3A1597326491055&ei=m0Q1X-qIA5CwrgTL2LqoAg&q=arch+control+volume+&oq=arch+control+volume+&gs_lcp=CgZwc3ktYWIQAzIGCAAQDRAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHOgQIIxAnOgUIABCRAjoCCAA6BAgAEEM6BwgjEOoCECc6CAguEMcBEKMCOgIILjoFCC4QywE6BwgAEBQQhwI6BQgAEMsBOggIABAWEAoQHlC0lgZY3cYGYKbWBmgBcAF4AIAByAGIAf4KkgEGMTYuMC4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&sclient=psy-ab&ved=0ahUKEwiqwtvwqJjrAhUQmIsKHUusDiUQ4dUDCAw&uact=5"
+               }, {
+                  "date_added": "13243253232395250",
+                  "guid": "9bec00da-bdf4-46c1-9f18-e957dbb37ec4",
+                  "id": "2065",
+                  "name": "audio - How to control volume with media keys? - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/486451/how-to-control-volume-with-media-keys"
+               }, {
+                  "date_added": "13243253232395866",
+                  "guid": "86919ff6-3be0-4c13-aa6a-d9022c9c4da6",
+                  "id": "2066",
+                  "name": "Xbindkeys - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/index.php/Xbindkeys"
+               }, {
+                  "date_added": "13243253232396467",
+                  "guid": "d2de59b2-466b-4cd7-94d3-6f4625897868",
+                  "id": "2067",
+                  "name": "[SOLVED] Change volume with terminal / Newbie Corner / Arch Linux Forums",
+                  "type": "url",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?id=145078"
+               }, {
+                  "date_added": "13243253232397075",
+                  "guid": "96f05f2f-3ff3-430a-8375-7dec32943dd1",
+                  "id": "2068",
+                  "name": "dwm chage vertical size - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=dwm+chage+vertical+size&oq=dwm+chage+vertical+size&aqs=chrome..69i57.10889j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232397695",
+                  "guid": "ebe63dd3-da18-4804-9131-83345aa25a36",
+                  "id": "2069",
+                  "name": "How does one resize one of the windows in the stack? : dwm",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/dwm/comments/2gml77/how_does_one_resize_one_of_the_windows_in_the/"
+               }, {
+                  "date_added": "13243253232398314",
+                  "guid": "58e6d1c8-2383-45c6-a009-e5d01ea1e085",
+                  "id": "2070",
+                  "name": "dwm - dynamic window manager | suckless.org software that sucks less",
+                  "type": "url",
+                  "url": "https://dwm.suckless.org/patches/cfacts/"
+               }, {
+                  "date_added": "13243253232398924",
+                  "guid": "b6602ba3-ecb7-4435-8117-9e7ba63b4fd6",
+                  "id": "2071",
+                  "name": "https://dwm.suckless.org/patches/cfacts/dwm-cfacts-6.2-1.diff",
+                  "type": "url",
+                  "url": "https://dwm.suckless.org/patches/cfacts/dwm-cfacts-6.2-1.diff"
+               }, {
+                  "date_added": "13243253232399541",
+                  "guid": "f9bda087-bd75-450c-88ee-81d39b737564",
+                  "id": "2072",
+                  "name": "dwm - dynamic window manager | suckless.org software that sucks less",
+                  "type": "url",
+                  "url": "https://dwm.suckless.org/patches/stackmfact/"
+               }, {
+                  "date_added": "13243253232400151",
+                  "guid": "5bcdea76-8bf0-4912-a287-e0d9fa271773",
+                  "id": "2073",
+                  "name": "keyboard - How to bind the super/mod/windows key to a custom command - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/845030/how-to-bind-the-super-mod-windows-key-to-a-custom-command"
+               }, {
+                  "date_added": "13243253232400773",
+                  "guid": "a86b5e62-fe25-44bc-82f9-13d233b292fb",
+                  "id": "2074",
+                  "name": "Vim Cheat Sheet",
+                  "type": "url",
+                  "url": "https://vim.rtorr.com/"
+               }, {
+                  "date_added": "13243253232401377",
+                  "guid": "8fb6e18b-f76a-457f-8415-cfa8b7f9be92",
+                  "id": "2075",
+                  "name": "arch linux - Pacman doesn't download anything - Always 404 - Super User",
+                  "type": "url",
+                  "url": "https://superuser.com/questions/795472/pacman-doesnt-download-anything-always-404"
+               }, {
+                  "date_added": "13243253232402000",
+                  "guid": "deb4301d-7b7e-4bed-851f-c3a46fe3c931",
+                  "id": "2076",
+                  "name": "Error 404 not found: pacman issue / Other Architectures / Arch Linux Forums",
+                  "type": "url",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?id=168950"
+               }, {
+                  "date_added": "13243253232402616",
+                  "guid": "0b07b4c8-df4f-46c8-a3d8-02ce6c718239",
+                  "id": "2077",
+                  "name": "dvorak key frequency - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=dvorak+key+frequency&sxsrf=ALeKk01GqAPsql9gZxE9GUVimxuEo8_QBg:1597846773474&source=lnms&sa=X&ved=0ahUKEwiEmdqKu6frAhXsAxAIHaskCjUQ_AUICSgA&biw=1906&bih=940&dpr=1"
+               }, {
+                  "date_added": "13243253232403244",
+                  "guid": "d4421188-33c5-4a9c-b0d8-1e329ffa7be7",
+                  "id": "2078",
+                  "name": "Accessing the system clipboard | Vim Tips Wiki | Fandom",
+                  "type": "url",
+                  "url": "https://vim.fandom.com/wiki/Accessing_the_system_clipboard"
+               }, {
+                  "date_added": "13243253232403860",
+                  "guid": "adbbb06f-bc13-4d9e-9621-4dc4eff18700",
+                  "id": "2079",
+                  "name": "Easiest way to copy from neovim to system clipboard? : neovim",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/neovim/comments/3fricd/easiest_way_to_copy_from_neovim_to_system/"
+               }, {
+                  "date_added": "13243253232404479",
+                  "guid": "a9f8e0ca-0eb8-45cc-a5ce-14d83309a613",
+                  "id": "2080",
+                  "name": "Nvim documentation: nvim",
+                  "type": "url",
+                  "url": "https://neovim.io/doc/user/nvim.html"
+               }, {
+                  "date_added": "13243253232405218",
+                  "guid": "3d9edafb-7217-4a7e-9352-a84c395c0414",
+                  "id": "2081",
+                  "name": "vim scrolling - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=vim+scrolling&oq=vim+scrolling&aqs=chrome.0.69i59.3120j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232405840",
+                  "guid": "2d820a7d-8564-483b-ab8e-6daafee7aa5f",
+                  "id": "2082",
+                  "name": "scroll - How to move screen without moving cursor in Vim? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/3458689/how-to-move-screen-without-moving-cursor-in-vim"
+               }, {
+                  "date_added": "13243253232406465",
+                  "guid": "bdb6ca56-215e-44b8-9fa1-011e581e304c",
+                  "id": "2083",
+                  "name": "bread without sugar - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=bread+without+sugar&sxsrf=ALeKk00wkW4Kv4KwFHYL1EZWgOjtyMNK-A:1597865255886&source=lnms&tbm=vid&sa=X&ved=2ahUKEwj9xeb3_6frAhVmxIsKHVa5CPgQ_AUoA3oECA8QBQ&biw=1906&bih=940"
+               }, {
+                  "date_added": "13243253232407088",
+                  "guid": "c73d9583-dfa6-4aa5-87fc-e559014ee317",
+                  "id": "2084",
+                  "name": "nvim shift enter - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=nvim+shift+enter&oq=nvim+shift+enter&aqs=chrome..69i57.5296j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232407707",
+                  "guid": "922a0556-e44f-4a2d-ab2a-ac5e2f393f0d",
+                  "id": "2085",
+                  "name": "VIM - How to map Shift-Enter - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/16359878/vim-how-to-map-shift-enter"
+               }, {
+                  "date_added": "13243253232408318",
+                  "guid": "1596ca14-6f7f-4817-98cb-9339a0faf6b6",
+                  "id": "2086",
+                  "name": "linux - What does Shift+Enter do in a terminal, and can I disable it in Vim? - Super User",
+                  "type": "url",
+                  "url": "https://superuser.com/questions/742160/what-does-shiftenter-do-in-a-terminal-and-can-i-disable-it-in-vim"
+               }, {
+                  "date_added": "13243253232408937",
+                  "guid": "41f54087-3288-41ae-a096-5045672d2592",
+                  "id": "2087",
+                  "name": "st shift enter - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=st+shift+enter&oq=st+shift+enter&aqs=chrome..69i57j69i60.8793j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232409559",
+                  "guid": "eeec3ccb-f2a6-485b-bccc-74aa6264ba60",
+                  "id": "2088",
+                  "name": "st: adding keys (Shift+Return, Shift+Space) : suckless",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/suckless/comments/f0umc1/st_adding_keys_shiftreturn_shiftspace/"
+               }, {
+                  "date_added": "13243253232410168",
+                  "guid": "2a88d1f9-46bf-442c-84d2-d5a5afaec423",
+                  "id": "2089",
+                  "name": "vim map c-i - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=vim+map+c-i&oq=vim+map+c-i&aqs=chrome..69i57.5632j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232410779",
+                  "guid": "882f1232-5fa0-4236-9ae5-8e394cfdaf1c",
+                  "id": "2090",
+                  "name": "vim mapping of \u003Cc-i> in insert mode - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/24967213/vim-mapping-of-c-i-in-insert-mode"
+               }, {
+                  "date_added": "13243253232411392",
+                  "guid": "48e14859-3d65-4d7b-b004-1f0184d46607",
+                  "id": "2091",
+                  "name": "key bindings - How to map \u003CC-i> separate from \u003CTab>? - Vi and Vim Stack Exchange",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/16161/how-to-map-c-i-separate-from-tab"
+               }, {
+                  "date_added": "13243253232412010",
+                  "guid": "090f16ad-e8f0-4f77-a67d-a89d32ae1b2b",
+                  "id": "2092",
+                  "name": "CSI u - Documentation - iTerm2 - macOS Terminal Replacement",
+                  "type": "url",
+                  "url": "https://iterm2.com/documentation-csiu.html"
+               }, {
+                  "date_added": "13243253232412626",
+                  "guid": "2977558a-70f3-4798-bd9e-0114494692a6",
+                  "id": "2093",
+                  "name": "Fix Terminals - Please",
+                  "type": "url",
+                  "url": "http://www.leonerd.org.uk/hacks/fixterms/"
+               }, {
+                  "date_added": "13243253232413235",
+                  "guid": "cd846536-9434-4e6b-ab3a-0ed6223390bc",
+                  "id": "2094",
+                  "name": "libtickit",
+                  "type": "url",
+                  "url": "http://www.leonerd.org.uk/code/libtickit/"
+               }, {
+                  "date_added": "13243253232413842",
+                  "guid": "efe682b2-eb68-43c7-a207-96e6026b81b5",
+                  "id": "2095",
+                  "name": "ASCII table and history (or, why does Ctrl+i insert a Tab in my terminal?)",
+                  "type": "url",
+                  "url": "https://bestasciitable.com/"
+               }, {
+                  "date_added": "13243253232414462",
+                  "guid": "18ae5e4e-ddf5-4c6a-8fdf-9dd9e1acc660",
+                  "id": "2096",
+                  "name": "what codes does terminal print - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=what+codes+does+terminal+print&sxsrf=ALeKk02YOh6OubZvi8fLqjS3j70qBI9lgw:1597868828242&source=lnms&sa=X&ved=0ahUKEwjltp6fjajrAhWDtIsKHUNfAuYQ_AUICSgA&biw=1906&bih=940&dpr=1"
+               }, {
+                  "date_added": "13243253232415088",
+                  "guid": "9e991fdd-4c05-4ed2-8b1e-340038ac233b",
+                  "id": "2097",
+                  "name": "terminal see keycodes - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=terminal+see+keycodes&oq=terminal+see+keycodes&aqs=chrome..69i57.8401j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232415705",
+                  "guid": "c21811f6-cef9-442a-8e5b-5b032314e96f",
+                  "id": "2098",
+                  "name": "keyboard - Getting character key code mappings in Ubuntu - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/245333/getting-character-key-code-mappings-in-ubuntu"
+               }, {
+                  "date_added": "13243253232416321",
+                  "guid": "15d840c0-d7c1-4a09-94bc-f0eef1910f4a",
+                  "id": "2099",
+                  "name": "Keyboard input - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/index.php/Keyboard_input"
+               }, {
+                  "date_added": "13243253232416925",
+                  "guid": "8ff6f764-84c1-4d19-bffc-ee88888dbabe",
+                  "id": "2100",
+                  "name": "Scancode - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Scancode"
+               }, {
+                  "date_added": "13243253232417527",
+                  "guid": "faf54724-56ba-45c3-afae-eeba8d9187c1",
+                  "id": "2101",
+                  "name": "Linux console/Keyboard configuration - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/index.php/Linux_console/Keyboard_configuration"
+               }, {
+                  "date_added": "13243253232418130",
+                  "guid": "4f2d5b50-6c86-4497-b80e-d3991c9692e8",
+                  "id": "2102",
+                  "name": "Where do I find a list of terminal key codes to remap shortcuts in bash? - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/76566/where-do-i-find-a-list-of-terminal-key-codes-to-remap-shortcuts-in-bash"
+               }, {
+                  "date_added": "13243253232418750",
+                  "guid": "990fd439-559c-4e1e-8cfe-a9883316c9b5",
+                  "id": "2103",
+                  "name": "where terminal key sequences came from - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=where+terminal+key+sequences+came+from&oq=where+terminal+key+sequences+came+from&aqs=chrome..69i57.17001j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232419365",
+                  "guid": "4859fc44-82db-4d52-bdc6-33c5f8e7baca",
+                  "id": "2104",
+                  "name": "ANSI escape code - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/ANSI_escape_code"
+               }, {
+                  "date_added": "13243253232419969",
+                  "guid": "1884b653-a068-4554-8541-056b725a0549",
+                  "id": "2105",
+                  "name": "ANSI escape code - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=ANSI+escape+code&sxsrf=ALeKk00EQUBw-YlkLUPIMSeWGC2QcY-jxg:1597872088482&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjny-uxmajrAhWIlIsKHQ9bBSYQ_AUoBHoECA4QBg&biw=1906&bih=940"
+               }, {
+                  "date_added": "13243253232420592",
+                  "guid": "50d89cfd-2dad-421f-a6da-6a5b6baac871",
+                  "id": "2106",
+                  "name": "Build your own Command Line with ANSI escape codes",
+                  "type": "url",
+                  "url": "https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html"
+               }, {
+                  "date_added": "13243253232421201",
+                  "guid": "39fc7af2-0a67-42b8-b204-d4a38002c57f",
+                  "id": "2107",
+                  "name": "ANSI Escape Codes",
+                  "type": "url",
+                  "url": "https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797"
+               }, {
+                  "date_added": "13243253232421838",
+                  "guid": "55e603de-8064-4afb-92c6-ba6e14b17417",
+                  "id": "2108",
+                  "name": "C Programming - using ANSI escape codes on Windows macOS and Linux terminals - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=bQ8qaBjJtYU"
+               }, {
+                  "date_added": "13243253232422461",
+                  "guid": "179d38c8-155c-4c22-baa2-ba2480139ae6",
+                  "id": "2109",
+                  "name": "ANSI escape code - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=7a4Hnc6GN-I"
+               }, {
+                  "date_added": "13243253232423079",
+                  "guid": "17d54454-1422-4cd2-beab-e93a4c479e4b",
+                  "id": "2110",
+                  "name": "ANSI Escape Sequences in DOSBox - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=qWqlFtVLbuE"
+               }, {
+                  "date_added": "13243253232423701",
+                  "guid": "d0cb1d90-6c22-4732-9731-9be64c8aebb2",
+                  "id": "2111",
+                  "name": "New Tab",
+                  "type": "url",
+                  "url": "chrome://newtab/"
+               }, {
+                  "date_added": "13243253232424317",
+                  "guid": "a6323c98-0aa3-44d9-9472-729a6e63585b",
+                  "id": "2112",
+                  "name": "simple terminal CSIu - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?sxsrf=ALeKk020AjGQSLTKs7VMehaz0Z1Aw2xsug%3A1597872952567&ei=OJs9X-2nIs-rrgS5gZOYAQ&q=simple+terminal+CSIu&oq=simple+terminal+CSIu&gs_lcp=CgZwc3ktYWIQAzoECAAQR1DYvQZY2L0GYJ_ABmgAcAF4AIABZYgBZZIBAzAuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjto-_NnKjrAhXPlYsKHbnABBMQ4dUDCAw&uact=5"
+               }, {
+                  "date_added": "13243253232424956",
+                  "guid": "beebe780-5e1c-4b18-98b7-724459629a79",
+                  "id": "2113",
+                  "name": "The Simple Terminal: st from Suckless, and how I extend it - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=uqLcvKYl-Ms"
+               }, {
+                  "date_added": "13243253232425573",
+                  "guid": "b860d01a-ba54-4a5f-87ec-28206ac6aee9",
+                  "id": "2114",
+                  "name": "st - simple terminal | suckless.org software that sucks less",
+                  "type": "url",
+                  "url": "https://st.suckless.org/patches/"
+               }, {
+                  "date_added": "13243253232426196",
+                  "guid": "6496c996-2118-48bd-a5b6-24bd13c30769",
+                  "id": "2115",
+                  "name": "console_codes(4) - Linux manual page",
+                  "type": "url",
+                  "url": "https://man7.org/linux/man-pages/man4/console_codes.4.html"
+               }, {
+                  "date_added": "13243253232426814",
+                  "guid": "e4e5e223-3016-40fa-ba64-35c306b0b9f7",
+                  "id": "2116",
+                  "name": "Ledge: перевод, произношение, транскрипция, примеры использования",
+                  "type": "url",
+                  "url": "https://wooordhunt.ru/word/ledge"
+               }, {
+                  "date_added": "13243253232427429",
+                  "guid": "eb574d1c-b867-45b9-837d-96421402d729",
+                  "id": "2117",
+                  "name": "how to change shell - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=how+to+change+shell&sxsrf=ALeKk03-iuqDc5-oBiWEyYjp7eqZ1a7Oig:1598085547437&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiSm4DLtK7rAhWy_CoKHedKC1MQ_AUoAXoECA8QAw&biw=1854&bih=933"
+               }, {
+                  "date_added": "13243253232428050",
+                  "guid": "c62f0ac8-bbd0-4cd3-86bd-b17c9b834639",
+                  "id": "2118",
+                  "name": "YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/"
+               }, {
+                  "date_added": "13243253232428660",
+                  "guid": "860068e5-b11e-4f56-8883-57c00b68540b",
+                  "id": "2119",
+                  "name": "YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/"
+               }, {
+                  "date_added": "13243253232429263",
+                  "guid": "6ddd4d84-0d6c-408b-96bb-e97ded0b73cb",
+                  "id": "2120",
+                  "name": "How to get up a ledge in Love - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Ik_mHpD8yfU"
+               }, {
+                  "date_added": "13243253232429875",
+                  "guid": "90087d46-77a9-4c93-8b37-b071ca2e60f6",
+                  "id": "2121",
+                  "name": "How I program C - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=443UNeGrFoM&list=PLBTDRbR8wdZPoeLAY-qptItxXWxVO2bIh&index=11"
+               }, {
+                  "date_added": "13243253232430486",
+                  "guid": "af985807-97c2-445a-8206-bbfc6ba9da5b",
+                  "id": "2122",
+                  "name": "New Tab",
+                  "type": "url",
+                  "url": "chrome://newtab/"
+               }, {
+                  "date_added": "13243253232431089",
+                  "guid": "f72b6b24-13d6-4212-bdaf-938c37bcf1c9",
+                  "id": "2123",
+                  "name": "dwm screenshot - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=dwm+screenshot&oq=dwm+scr&aqs=chrome.1.69i57j69i59j69i61l2.2800j0j1&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "date_added": "13243253232431729",
+                  "guid": "8110bb5d-3d12-4d08-9c03-0feab86f4851",
+                  "id": "2124",
+                  "name": "EwW: Taking Screenshots in DWM",
+                  "type": "url",
+                  "url": "https://economical-with-words.blogspot.com/2013/02/taking-screenshots-in-dwm.html#:~:text=Taking%20screenshots%20in%20DWM%20using,selected%20section%20of%20the%20desktop."
+               }, {
+                  "date_added": "13243253232432355",
+                  "guid": "cda004db-bfa5-4317-b9b3-42289415be92",
+                  "id": "2125",
+                  "name": "How to bind print-screen key to scrot in dwm? : dwm",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/dwm/comments/dgk497/how_to_bind_printscreen_key_to_scrot_in_dwm/"
+               }, {
+                  "date_added": "13243253232432970",
+                  "guid": "fea89de1-be64-4a85-87bb-e305eccf8d3a",
+                  "id": "2126",
+                  "name": "config.h · master · Rafael Marçalo / dwm · GitLab",
+                  "type": "url",
+                  "url": "https://gitlab.com/rafa_99/dwm/blob/master/config.h"
+               }, {
+                  "date_added": "13243253232433582",
+                  "guid": "c104f64d-2c0d-4c17-91a6-adac4343cc00",
+                  "id": "2127",
+                  "name": "New Tab",
+                  "type": "url",
+                  "url": "chrome://newtab/"
+               } ],
+               "date_added": "13243253232372365",
+               "date_modified": "13243253232433582",
+               "guid": "a15abeb6-b112-43c3-a369-1c5f473b92f5",
+               "id": "2029",
+               "name": "28_08_2020",
+               "type": "folder"
             } ],
             "date_added": "13241556756315504",
-            "date_modified": "13242487473201204",
+            "date_modified": "13243260178948747",
             "guid": "8daa749b-2c6a-4c44-ab67-0baf3ea92d82",
             "id": "760",
             "name": "dev",

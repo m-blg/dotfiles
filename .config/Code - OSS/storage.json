@@ -2,9 +2,9 @@
     "telemetry.machineId": "7e048e68d8b0636b7a3722242611521f6607eafe9378cdecc133a13fe9bc7d93",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/mbgl/Desktop/dev/Contest/Test",
             "file:///home/mbgl/Downloads/src/dwm",
             "file:///home/mbgl/Downloads/src/dwmblocks",
-            "file:///mnt/mbgl/Desktop/dev/cpp/GLFW/mbgl_opengl_fmwk",
             "file:///mnt/mbgl/Desktop/dev/asm/Test2",
             "file:///mnt/mbgl/Desktop/dev/asm/Test1"
         ],
@@ -20,13 +20,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/mbgl/.config/Code - OSS/Backups/1597399444340",
+            "folder": "file:///home/mbgl/Desktop/dev/Contest/Test",
+            "backupPath": "/home/mbgl/.config/Code - OSS/Backups/ab03beddfe9feebd069c06adfda20cb3",
             "uiState": {
                 "mode": 1,
-                "x": 770,
-                "y": 554,
-                "width": 1146,
-                "height": 523
+                "x": 867,
+                "y": 25,
+                "width": 1050,
+                "height": 1052
             }
         },
         "openedWindows": []
@@ -65,11 +66,22 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/home/mbgl/Desktop/dev/Contest/Test",
+                                        "external": "file:///home/mbgl/Desktop/dev/Contest/Test",
+                                        "path": "/home/mbgl/Desktop/dev/Contest/Test",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/dev/Contest/Test"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -92,17 +104,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Downloads/src/dwmblocks"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/mbgl/Desktop/dev/cpp/GLFW/mbgl_opengl_fmwk",
-                                        "path": "/mnt/mbgl/Desktop/dev/cpp/GLFW/mbgl_opengl_fmwk",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/mbgl/Desktop/dev/cpp/GLFW/mbgl_opengl_fmwk"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -247,7 +248,8 @@
                     },
                     {
                         "id": "workbench.action.files.saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -318,8 +320,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder",
-                        "enabled": false
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -539,7 +540,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1034,8 +1036,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1584,5 +1585,5 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/mbgl/Downloads/src"
+    "pickerWorkingDir": "/home/mbgl/Desktop/dev/Contest"
 }

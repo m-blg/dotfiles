@@ -1,3 +1,9 @@
-2020/08/11-21:33:22.907 ea4 Reusing MANIFEST leveldb/MANIFEST-000001
-2020/08/11-21:33:22.908 ea4 Recovering log #3
-2020/08/11-21:33:22.908 ea4 Reusing old log leveldb/000003.log 
+2020/08/24-12:24:29.469 350e Reusing MANIFEST leveldb/MANIFEST-000001
+2020/08/24-12:24:29.469 350e Recovering log #3
+2020/08/24-12:24:29.470 350e Reusing old log leveldb/000003.log 
+2020/08/24-19:04:26.142 350e Level-0 table #5: started
+2020/08/24-19:04:26.147 350e Level-0 table #5: 12365 bytes OK
+2020/08/24-19:04:26.151 350e Delete type=0 #3
+2020/08/24-20:48:02.267 350e Level-0 table #7: started
+2020/08/24-20:48:02.273 350e Level-0 table #7: 8529 bytes OK
+2020/08/24-20:48:02.277 350e Delete type=0 #4

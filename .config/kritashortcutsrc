@@ -1,9 +1,11 @@
 [Shortcuts]
 KisToolCrop=none
+KisToolSelectOutline=Space, S
 KisToolSelectRectangular=S
+KisToolTransform=F
 KritaFill/KisToolFill=Shift+F
 KritaFill/KisToolGradient=none
-KritaTransform/KisToolMove=F
+KritaTransform/KisToolMove=none
 clear=D
 copy_merged=Shift+C
 edit_copy=C
@@ -16,6 +18,7 @@ pathsegment-line=none
 remove_layer=Shift+D
 reset_fg_bg=none
 selection_tool_mode_subtract=none
+show_snap_options_popup=~
 switchToPreviouslyActiveNode=G
 toggle_fg_bg=none
 undo_polygon_selection=none

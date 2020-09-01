@@ -1,7 +1,5 @@
 {
     "code-runner.runInTerminal": true,
-    "vscode-neovim.neovimPath": "/usr/bin/nvim",
-    "vscode-neovim.neovimInitPath": "/home/mbgl/.config/nvim/init.vim",
     "keyboard.dispatch": "keyCode",
 
     "vim.easymotion": true,
@@ -24,6 +22,9 @@
         "<C-a>": false,
         "<C-f>": false
     },
-    "git.autofetch": true
+    "git.autofetch": true,
+    "vscode-neovim.neovimInitVimPaths.linux": "/home/mbgl/.config/nvim/ErgoVim.vim",
+    "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+    "vscode-neovim.mouseSelectionStartVisualMode": true
     
 }

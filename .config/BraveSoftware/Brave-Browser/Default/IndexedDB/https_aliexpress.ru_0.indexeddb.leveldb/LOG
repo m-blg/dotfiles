@@ -1,15 +1,15 @@
-2020/08/19-01:26:41.229 156f Reusing MANIFEST /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_aliexpress.ru_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/19-01:26:41.229 156f Recovering log #4
-2020/08/19-01:26:41.230 156f Reusing old log /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_aliexpress.ru_0.indexeddb.leveldb/000004.log 
-2020/08/19-01:26:48.221 8e1 Level-0 table #8: started
-2020/08/19-01:26:48.230 8e1 Level-0 table #8: 2910 bytes OK
-2020/08/19-01:26:48.234 8e1 Delete type=0 #4
-2020/08/19-01:26:48.234 8e1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/08/19-01:26:48.234 8e1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x11\x00s\x00i\x00t\x00e\x00_\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00k\x00e\x00y' @ 86 : 1
-2020/08/19-01:26:48.234 8e1 Compacting 1@1 + 1@2 files
-2020/08/19-01:26:48.237 8e1 Generated table #9@1: 22 keys, 1814 bytes
-2020/08/19-01:26:48.237 8e1 Compacted 1@1 + 1@2 files => 1814 bytes
-2020/08/19-01:26:48.240 8e1 compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/08/19-01:26:48.241 8e1 Delete type=2 #8
-2020/08/19-01:26:48.241 8e1 Delete type=2 #5
-2020/08/19-01:26:48.241 8e1 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x11\x00s\x00i\x00t\x00e\x00_\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00k\x00e\x00y' @ 86 : 1 .. (end); will stop at (end)
+2020/08/30-20:34:09.635 1838 Reusing MANIFEST /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_aliexpress.ru_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/30-20:34:09.636 1838 Recovering log #7
+2020/08/30-20:34:09.636 1838 Reusing old log /home/mbgl/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_aliexpress.ru_0.indexeddb.leveldb/000007.log 
+2020/08/30-20:34:59.190 b6b Level-0 table #12: started
+2020/08/30-20:34:59.193 b6b Level-0 table #12: 7596 bytes OK
+2020/08/30-20:34:59.197 b6b Delete type=0 #7
+2020/08/30-20:34:59.197 b6b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/30-20:34:59.198 b6b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x11\x00s\x00i\x00t\x00e\x00_\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00k\x00e\x00y' @ 110 : 1
+2020/08/30-20:34:59.198 b6b Compacting 1@1 + 1@2 files
+2020/08/30-20:34:59.201 b6b Generated table #13@1: 22 keys, 1814 bytes
+2020/08/30-20:34:59.201 b6b Compacted 1@1 + 1@2 files => 1814 bytes
+2020/08/30-20:34:59.204 b6b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/30-20:34:59.205 b6b Delete type=2 #12
+2020/08/30-20:34:59.205 b6b Delete type=2 #9
+2020/08/30-20:34:59.205 b6b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x11\x00s\x00i\x00t\x00e\x00_\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00k\x00e\x00y' @ 110 : 1 .. (end); will stop at (end)

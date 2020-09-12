@@ -49,3 +49,7 @@ alias yta-wav="youtube-dl --extract-audio --audio-format wav "
 alias ytv-best="youtube-dl -f bestvideo+bestaudio "
 
 alias dotcfg='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME' 
+
+# hidpi
+alias brave='brave --force-device-scale-factor=1.2'
+alias chromium='chromium --force-device-scale-factor=1.2'

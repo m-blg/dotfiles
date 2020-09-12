@@ -16,12 +16,14 @@ Plug 'preservim/nerdtree'
 " Extras
 Plug 'itchyny/lightline.vim'
 Plug 'ap/vim-css-color'
-Plug 'octol/vim-cpp-enhanced-highlight'
+Plug 'jackguo380/vim-lsp-cxx-highlight'
 
 call plug#end()
 
 "set langmap='q,\\,w,.e,pr,yt,fy,gu,ci,ro,lp,/[,=],aa,os,ed,uf,ig,dh,hj,tk,nl,s\\;,-',\\;z,qx,jc,kv,xb,bn,mm,w\\,,v.,z/,[-,]=,\"Q,<W,>E,PR,YT,FY,GU,CI,RO,LP,?{,+},AA,OS,ED,UF,IG,DH,HJ,TK,NL,S:,_\",:Z,QX,JC,KV,XB,BN,MM,W<,V>,Z?
 
+"set langmap=ФИСВУАПРШОЛДЬТЩЗЙКЫЕГЦЧНЯ;ABCDEFGHIJKLMNOPQRSTUVWXYZ,фисвуапршолдьтщзйкыегмцчня;abcdefghijklmnopqrstuvwxyz
+"set keymap=russian-jcukenwin
 
 "set background=dark
 "colorscheme gruvbox
@@ -32,8 +34,9 @@ let g:lightline = { 'colorscheme': 'seoul256' }
 
 set clipboard+=unnamedplus
 set nocompatible
+
 syntax on
-let g:cpp_class_decl_highlight = 1
+
 set number
 set relativenumber
 filetype plugin indent on
@@ -65,6 +68,8 @@ let g:UltiSnipsJumpForwardTrigger='<c-j>'
 let g:UltiSnipsJumpBackwardTrigger='<c-k>'
 
 :so $HOME/.config/nvim/ErgoVim.vim
+:so $HOME/.config/nvim/Ru.vim
+
 
 "~~~~~~~~~~~~~~~~~~~ Coc config ~~~~~~~~~~~~~~~~~~~
 command! -nargs=0 Prettier :CocCommand prettier.formatFile

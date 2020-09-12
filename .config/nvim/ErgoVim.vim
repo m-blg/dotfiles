@@ -20,9 +20,12 @@ nnoremap <Space>wk <C-w>j
 nnoremap <Space>wl <C-w>l
 
 
-noremap b z
-noremap <S-b> <S-z>
-noremap YY ZZ
+noremap h z
+noremap <S-h> <S-z>
+
+noremap ht zt
+noremap hg zz
+noremap hb zb
 
 noremap t "
 noremap " `

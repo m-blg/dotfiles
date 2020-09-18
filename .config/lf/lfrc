@@ -127,42 +127,16 @@ cmd stripspace %stripspace "$f"
 
 # Bindings
 # Remove defaults
-map i
-map j
-map k
-map l
-map h
 map "'"
 map '"'
 
-map f
-map d
-map s
 map a
-map v
-map c
 
-map u
-map o
-map p
 map m
-map n
 map b
 
 
 # New bindings
-map i up
-map j updir
-map k down
-map l open
-
-map d cut
-map f rename
-map c copy
-map v paste
-
-map s invert
-map <S-s> unmark
 
 map DD delete
 

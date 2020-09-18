@@ -50,6 +50,8 @@ alias ytv-best="youtube-dl -f bestvideo+bestaudio "
 
 alias dotcfg='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME' 
 
+alias scrotclip='scrot -s $HOME/Documents/foo.png && xclip -sel clip &HOME/Documents/foo.png && rm &HOME/Documents/foo.png'
+
 # hidpi
 alias brave='brave --force-device-scale-factor=1.2'
 alias chromium='chromium --force-device-scale-factor=1.2'

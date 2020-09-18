@@ -107,8 +107,8 @@ noremap <S-s> <S-v>
 map <Space>s <Nop>
 noremap <Space>s <C-v>
 
-noremap a <S-x>
-noremap <S-a> x
+noremap a x
+noremap <S-a> <S-x>
 
 noremap x .
 
@@ -232,3 +232,6 @@ vnoremap r" v<s-f>"v,
 
 "vnoremap <leader>/ :norm E"<Space><CR>
 
+"vim surround
+"noremap fs cs
+"noremap cs ys

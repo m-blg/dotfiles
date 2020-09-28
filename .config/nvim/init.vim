@@ -1,4 +1,4 @@
-call plug#begin('~/local/share/nvim/plugged')
+call plug#begin('~/.local/share/nvim/plugged')
 
 " Color themes
 Plug 'morhetz/gruvbox'

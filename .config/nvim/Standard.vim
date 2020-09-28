@@ -15,9 +15,9 @@ noremap <C-s> :w<CR>
 nnoremap zv :w<cr>
 nnoremap zx :q<cr>
 
-nnoremap zi <C-w>k
-nnoremap zj <C-w>h
-nnoremap zk <C-w>j
+nnoremap zk <C-w>k
+nnoremap zh <C-w>h
+nnoremap zj <C-w>j
 nnoremap zl <C-w>l
 
 nnoremap <CR> o

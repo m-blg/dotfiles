@@ -13,13 +13,14 @@ Plug 'easymotion/vim-easymotion'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'preservim/nerdcommenter'
 Plug 'preservim/nerdtree'
-"Plug 'SirVer/ultisnips'
+Plug 'SirVer/ultisnips'
 
 " Extras
 Plug 'itchyny/lightline.vim'
 Plug 'ap/vim-css-color'
 Plug 'jackguo380/vim-lsp-cxx-highlight'
 Plug 'lervag/vimtex'
+"Plug 'glacambre/firenvim', { 'do': { _ -> firenvim#install(0) } }
 
 call plug#end()
 
@@ -84,7 +85,8 @@ let g:tex_conceal='abdmg'
 "~~~~~~~~~~~~~~~~~~~ Coc config ~~~~~~~~~~~~~~~~~~~
 command! -nargs=0 Prettier :CocCommand prettier.formatFile
 let g:coc_global_extensions = [
-\ 'coc-snippets',
+"\ 'coc-snippets',
+"\ 'coc-ultisnips',
 \ 'coc-pairs',
 \ 'coc-prettier',
 \ 'coc-html',
@@ -238,3 +240,7 @@ endfunction
 let g:coc_snippet_next = '<tab>'
 let g:coc_snippet_prev = '<s-tab>'
 " end of coc snippets
+
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<tab>"
+let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
